@@ -1,0 +1,3156 @@
+Auflistung der Ordnerpfade
+Volumeseriennummer : 0E2B-648B
+C:.
++---.vscode
++---dist
+¦   +---assets
+¦   +---flags
++---node_modules
+¦   +---.bin
+¦   +---.vite
+¦   ¦   +---deps
+¦   +---.vite-temp
+¦   +---@alloc
+¦   ¦   +---quick-lru
+¦   +---@ampproject
+¦   ¦   +---remapping
+¦   ¦       +---dist
+¦   ¦           +---types
+¦   +---@babel
+¦   ¦   +---code-frame
+¦   ¦   ¦   +---lib
+¦   ¦   +---compat-data
+¦   ¦   ¦   +---data
+¦   ¦   +---core
+¦   ¦   ¦   +---lib
+¦   ¦   ¦   ¦   +---config
+¦   ¦   ¦   ¦   ¦   +---files
+¦   ¦   ¦   ¦   ¦   +---helpers
+¦   ¦   ¦   ¦   ¦   +---validation
+¦   ¦   ¦   ¦   +---errors
+¦   ¦   ¦   ¦   +---gensync-utils
+¦   ¦   ¦   ¦   +---parser
+¦   ¦   ¦   ¦   ¦   +---util
+¦   ¦   ¦   ¦   +---tools
+¦   ¦   ¦   ¦   +---transformation
+¦   ¦   ¦   ¦   ¦   +---file
+¦   ¦   ¦   ¦   ¦   +---util
+¦   ¦   ¦   ¦   +---vendor
+¦   ¦   ¦   +---src
+¦   ¦   ¦       +---config
+¦   ¦   ¦           +---files
+¦   ¦   +---generator
+¦   ¦   ¦   +---lib
+¦   ¦   ¦       +---generators
+¦   ¦   ¦       +---node
+¦   ¦   +---helper-compilation-targets
+¦   ¦   ¦   +---lib
+¦   ¦   +---helper-module-imports
+¦   ¦   ¦   +---lib
+¦   ¦   +---helper-module-transforms
+¦   ¦   ¦   +---lib
+¦   ¦   +---helper-plugin-utils
+¦   ¦   ¦   +---lib
+¦   ¦   +---helper-string-parser
+¦   ¦   ¦   +---lib
+¦   ¦   +---helper-validator-identifier
+¦   ¦   ¦   +---lib
+¦   ¦   +---helper-validator-option
+¦   ¦   ¦   +---lib
+¦   ¦   +---helpers
+¦   ¦   ¦   +---lib
+¦   ¦   ¦       +---helpers
+¦   ¦   +---parser
+¦   ¦   ¦   +---bin
+¦   ¦   ¦   +---lib
+¦   ¦   ¦   +---typings
+¦   ¦   +---plugin-transform-react-jsx-self
+¦   ¦   ¦   +---lib
+¦   ¦   +---plugin-transform-react-jsx-source
+¦   ¦   ¦   +---lib
+¦   ¦   +---template
+¦   ¦   ¦   +---lib
+¦   ¦   +---traverse
+¦   ¦   ¦   +---lib
+¦   ¦   ¦       +---path
+¦   ¦   ¦       ¦   +---inference
+¦   ¦   ¦       ¦   +---lib
+¦   ¦   ¦       +---scope
+¦   ¦   ¦           +---lib
+¦   ¦   +---types
+¦   ¦       +---lib
+¦   ¦           +---asserts
+¦   ¦           ¦   +---generated
+¦   ¦           +---ast-types
+¦   ¦           ¦   +---generated
+¦   ¦           +---builders
+¦   ¦           ¦   +---flow
+¦   ¦           ¦   +---generated
+¦   ¦           ¦   +---react
+¦   ¦           ¦   +---typescript
+¦   ¦           +---clone
+¦   ¦           +---comments
+¦   ¦           +---constants
+¦   ¦           ¦   +---generated
+¦   ¦           +---converters
+¦   ¦           +---definitions
+¦   ¦           +---modifications
+¦   ¦           ¦   +---flow
+¦   ¦           ¦   +---typescript
+¦   ¦           +---retrievers
+¦   ¦           +---traverse
+¦   ¦           +---utils
+¦   ¦           ¦   +---react
+¦   ¦           +---validators
+¦   ¦               +---generated
+¦   ¦               +---react
+¦   +---@choojs
+¦   ¦   +---findup
+¦   ¦       +---bin
+¦   ¦       +---node_modules
+¦   ¦       ¦   +---commander
+¦   ¦       ¦       +---typings
+¦   ¦       +---test
+¦   ¦           +---fixture
+¦   ¦               +---f
+¦   ¦                   +---e
+¦   ¦                       +---d
+¦   ¦                           +---c
+¦   ¦                               +---b
+¦   ¦                                   +---a
+¦   +---@esbuild
+¦   ¦   +---win32-x64
+¦   +---@isaacs
+¦   ¦   +---cliui
+¦   ¦       +---build
+¦   ¦           +---lib
+¦   +---@jridgewell
+¦   ¦   +---gen-mapping
+¦   ¦   ¦   +---dist
+¦   ¦   ¦       +---types
+¦   ¦   +---resolve-uri
+¦   ¦   ¦   +---dist
+¦   ¦   ¦       +---types
+¦   ¦   +---set-array
+¦   ¦   ¦   +---dist
+¦   ¦   ¦       +---types
+¦   ¦   +---source-map
+¦   ¦   ¦   +---dist
+¦   ¦   ¦       +---types
+¦   ¦   +---sourcemap-codec
+¦   ¦   ¦   +---dist
+¦   ¦   ¦       +---types
+¦   ¦   +---trace-mapping
+¦   ¦       +---dist
+¦   ¦           +---types
+¦   +---@mapbox
+¦   ¦   +---geojson-rewind
+¦   ¦   +---geojson-types
+¦   ¦   ¦   +---fixtures
+¦   ¦   ¦       +---invalid
+¦   ¦   ¦       +---valid
+¦   ¦   +---jsonlint-lines-primitives
+¦   ¦   ¦   +---lib
+¦   ¦   ¦   +---scripts
+¦   ¦   ¦   +---src
+¦   ¦   ¦   +---test
+¦   ¦   ¦   ¦   +---fails
+¦   ¦   ¦   ¦   +---passes
+¦   ¦   ¦   +---web
+¦   ¦   +---mapbox-gl-supported
+¦   ¦   +---point-geometry
+¦   ¦   +---tiny-sdf
+¦   ¦   +---unitbezier
+¦   ¦   ¦   +---test
+¦   ¦   +---vector-tile
+¦   ¦   ¦   +---lib
+¦   ¦   ¦   +---proto
+¦   ¦   ¦   +---test
+¦   ¦   ¦       +---fixtures
+¦   ¦   +---whoots-js
+¦   +---@maplibre
+¦   ¦   +---maplibre-gl-style-spec
+¦   ¦       +---bin
+¦   ¦       +---dist
+¦   ¦       +---node_modules
+¦   ¦       ¦   +---@mapbox
+¦   ¦       ¦   ¦   +---unitbezier
+¦   ¦       ¦   +---tinyqueue
+¦   ¦       +---src
+¦   ¦           +---error
+¦   ¦           +---expression
+¦   ¦           ¦   +---definitions
+¦   ¦           ¦   +---types
+¦   ¦           +---feature_filter
+¦   ¦           +---function
+¦   ¦           +---migrate
+¦   ¦           +---reference
+¦   ¦           +---util
+¦   ¦           +---validate
+¦   +---@nodelib
+¦   ¦   +---fs.scandir
+¦   ¦   ¦   +---out
+¦   ¦   ¦       +---adapters
+¦   ¦   ¦       +---providers
+¦   ¦   ¦       +---types
+¦   ¦   ¦       +---utils
+¦   ¦   +---fs.stat
+¦   ¦   ¦   +---out
+¦   ¦   ¦       +---adapters
+¦   ¦   ¦       +---providers
+¦   ¦   ¦       +---types
+¦   ¦   +---fs.walk
+¦   ¦       +---out
+¦   ¦           +---providers
+¦   ¦           +---readers
+¦   ¦           +---types
+¦   +---@pkgjs
+¦   ¦   +---parseargs
+¦   ¦       +---examples
+¦   ¦       +---internal
+¦   +---@plotly
+¦   ¦   +---d3
+¦   ¦   ¦   +---bin
+¦   ¦   ¦   +---src
+¦   ¦   ¦       +---arrays
+¦   ¦   ¦       +---behavior
+¦   ¦   ¦       +---color
+¦   ¦   ¦       +---compat
+¦   ¦   ¦       +---core
+¦   ¦   ¦       +---dsv
+¦   ¦   ¦       +---event
+¦   ¦   ¦       +---format
+¦   ¦   ¦       +---geom
+¦   ¦   ¦       ¦   +---voronoi
+¦   ¦   ¦       +---interpolate
+¦   ¦   ¦       +---layout
+¦   ¦   ¦       +---math
+¦   ¦   ¦       +---scale
+¦   ¦   ¦       +---selection
+¦   ¦   ¦       +---svg
+¦   ¦   ¦       +---transition
+¦   ¦   ¦       +---xhr
+¦   ¦   +---d3-sankey
+¦   ¦   ¦   +---build
+¦   ¦   ¦   +---img
+¦   ¦   ¦   +---src
+¦   ¦   +---d3-sankey-circular
+¦   ¦   ¦   +---dist
+¦   ¦   +---mapbox-gl
+¦   ¦   ¦   +---build
+¦   ¦   ¦   ¦   +---test
+¦   ¦   ¦   +---dist
+¦   ¦   ¦   +---flow-typed
+¦   ¦   ¦   +---src
+¦   ¦   ¦       +---css
+¦   ¦   ¦       ¦   +---svg
+¦   ¦   ¦       +---data
+¦   ¦   ¦       ¦   +---bucket
+¦   ¦   ¦       +---geo
+¦   ¦   ¦       +---gl
+¦   ¦   ¦       +---render
+¦   ¦   ¦       ¦   +---program
+¦   ¦   ¦       +---shaders
+¦   ¦   ¦       +---source
+¦   ¦   ¦       +---style
+¦   ¦   ¦       ¦   +---style_layer
+¦   ¦   ¦       +---style-spec
+¦   ¦   ¦       ¦   +---bin
+¦   ¦   ¦       ¦   +---dist
+¦   ¦   ¦       ¦   +---error
+¦   ¦   ¦       ¦   +---expression
+¦   ¦   ¦       ¦   ¦   +---definitions
+¦   ¦   ¦       ¦   ¦   +---types
+¦   ¦   ¦       ¦   +---feature_filter
+¦   ¦   ¦       ¦   +---function
+¦   ¦   ¦       ¦   +---migrate
+¦   ¦   ¦       ¦   +---reference
+¦   ¦   ¦       ¦   +---util
+¦   ¦   ¦       ¦   +---validate
+¦   ¦   ¦       +---symbol
+¦   ¦   ¦       +---types
+¦   ¦   ¦       +---ui
+¦   ¦   ¦       ¦   +---control
+¦   ¦   ¦       ¦   +---handler
+¦   ¦   ¦       ¦       +---shim
+¦   ¦   ¦       +---util
+¦   ¦   ¦           +---browser
+¦   ¦   +---point-cluster
+¦   ¦       +---.github
+¦   ¦           +---workflows
+¦   +---@rollup
+¦   ¦   +---rollup-win32-x64-msvc
+¦   +---@tailwindcss
+¦   +---@tauri-apps
+¦   ¦   +---api
+¦   ¦   ¦   +---helpers
+¦   ¦   +---cli
+¦   ¦   ¦   +---src
+¦   ¦   ¦   +---__tests__
+¦   ¦   ¦       +---fixtures
+¦   ¦   ¦           +---empty
+¦   ¦   ¦               +---dist
+¦   ¦   +---cli-win32-x64-msvc
+¦   ¦   +---plugin-dialog
+¦   ¦   ¦   +---dist-js
+¦   ¦   ¦   +---node_modules
+¦   ¦   ¦       +---@tauri-apps
+¦   ¦   ¦           +---api
+¦   ¦   ¦               +---external
+¦   ¦   ¦               ¦   +---tslib
+¦   ¦   ¦               +---menu
+¦   ¦   +---plugin-fs
+¦   ¦   ¦   +---dist-js
+¦   ¦   ¦   +---node_modules
+¦   ¦   ¦       +---@tauri-apps
+¦   ¦   ¦           +---api
+¦   ¦   ¦               +---external
+¦   ¦   ¦               ¦   +---tslib
+¦   ¦   ¦               +---menu
+¦   ¦   +---plugin-opener
+¦   ¦       +---dist-js
+¦   ¦       +---node_modules
+¦   ¦           +---@tauri-apps
+¦   ¦               +---api
+¦   ¦                   +---external
+¦   ¦                   ¦   +---tslib
+¦   ¦                   +---menu
+¦   +---@turf
+¦   ¦   +---area
+¦   ¦   ¦   +---dist
+¦   ¦   ¦       +---cjs
+¦   ¦   ¦       +---esm
+¦   ¦   +---bbox
+¦   ¦   ¦   +---dist
+¦   ¦   ¦       +---cjs
+¦   ¦   ¦       +---esm
+¦   ¦   +---centroid
+¦   ¦   ¦   +---dist
+¦   ¦   ¦       +---cjs
+¦   ¦   ¦       +---esm
+¦   ¦   +---helpers
+¦   ¦   ¦   +---dist
+¦   ¦   ¦       +---cjs
+¦   ¦   ¦       +---esm
+¦   ¦   +---meta
+¦   ¦       +---dist
+¦   ¦           +---cjs
+¦   ¦           +---esm
+¦   +---@types
+¦   ¦   +---babel__core
+¦   ¦   +---babel__generator
+¦   ¦   +---babel__template
+¦   ¦   +---babel__traverse
+¦   ¦   +---eslint
+¦   ¦   ¦   +---rules
+¦   ¦   +---eslint-scope
+¦   ¦   +---estree
+¦   ¦   +---geojson
+¦   ¦   +---geojson-vt
+¦   ¦   +---json-schema
+¦   ¦   +---less
+¦   ¦   +---mapbox__point-geometry
+¦   ¦   +---mapbox__vector-tile
+¦   ¦   +---node
+¦   ¦   ¦   +---assert
+¦   ¦   ¦   +---compatibility
+¦   ¦   ¦   +---dns
+¦   ¦   ¦   +---fs
+¦   ¦   ¦   +---readline
+¦   ¦   ¦   +---stream
+¦   ¦   ¦   +---timers
+¦   ¦   ¦   +---ts5.6
+¦   ¦   +---pbf
+¦   ¦   +---plotly.js
+¦   ¦   ¦   +---lib
+¦   ¦   +---prop-types
+¦   ¦   +---react
+¦   ¦   ¦   +---ts5.0
+¦   ¦   +---react-dom
+¦   ¦   ¦   +---test-utils
+¦   ¦   +---react-plotly.js
+¦   ¦   +---sass
+¦   ¦   +---stylus
+¦   ¦   ¦   +---lib
+¦   ¦   +---supercluster
+¦   +---@vitejs
+¦   ¦   +---plugin-react
+¦   ¦       +---dist
+¦   +---@webassemblyjs
+¦   ¦   +---ast
+¦   ¦   ¦   +---esm
+¦   ¦   ¦   ¦   +---transform
+¦   ¦   ¦   ¦   ¦   +---ast-module-to-module-context
+¦   ¦   ¦   ¦   ¦   +---denormalize-type-references
+¦   ¦   ¦   ¦   ¦   +---wast-identifier-to-index
+¦   ¦   ¦   ¦   +---types
+¦   ¦   ¦   +---lib
+¦   ¦   ¦   ¦   +---transform
+¦   ¦   ¦   ¦   ¦   +---ast-module-to-module-context
+¦   ¦   ¦   ¦   ¦   +---denormalize-type-references
+¦   ¦   ¦   ¦   ¦   +---wast-identifier-to-index
+¦   ¦   ¦   ¦   +---types
+¦   ¦   ¦   +---scripts
+¦   ¦   +---floating-point-hex-parser
+¦   ¦   ¦   +---esm
+¦   ¦   ¦   +---lib
+¦   ¦   +---helper-api-error
+¦   ¦   ¦   +---esm
+¦   ¦   ¦   +---lib
+¦   ¦   +---helper-buffer
+¦   ¦   ¦   +---esm
+¦   ¦   ¦   +---lib
+¦   ¦   +---helper-numbers
+¦   ¦   ¦   +---esm
+¦   ¦   ¦   +---lib
+¦   ¦   ¦   +---src
+¦   ¦   +---helper-wasm-bytecode
+¦   ¦   ¦   +---esm
+¦   ¦   ¦   +---lib
+¦   ¦   +---helper-wasm-section
+¦   ¦   ¦   +---esm
+¦   ¦   ¦   +---lib
+¦   ¦   +---ieee754
+¦   ¦   ¦   +---esm
+¦   ¦   ¦   +---lib
+¦   ¦   ¦   +---src
+¦   ¦   +---leb128
+¦   ¦   ¦   +---esm
+¦   ¦   ¦   +---lib
+¦   ¦   +---utf8
+¦   ¦   ¦   +---esm
+¦   ¦   ¦   +---lib
+¦   ¦   ¦   +---src
+¦   ¦   ¦   +---test
+¦   ¦   +---wasm-edit
+¦   ¦   ¦   +---esm
+¦   ¦   ¦   +---lib
+¦   ¦   +---wasm-gen
+¦   ¦   ¦   +---esm
+¦   ¦   ¦   ¦   +---encoder
+¦   ¦   ¦   +---lib
+¦   ¦   ¦       +---encoder
+¦   ¦   +---wasm-opt
+¦   ¦   ¦   +---esm
+¦   ¦   ¦   +---lib
+¦   ¦   +---wasm-parser
+¦   ¦   ¦   +---esm
+¦   ¦   ¦   ¦   +---types
+¦   ¦   ¦   +---lib
+¦   ¦   ¦       +---types
+¦   ¦   +---wast-printer
+¦   ¦       +---esm
+¦   ¦       +---lib
+¦   +---@xtuc
+¦   ¦   +---ieee754
+¦   ¦   ¦   +---dist
+¦   ¦   +---long
+¦   ¦       +---dist
+¦   ¦       +---src
+¦   +---abs-svg-path
+¦   +---acorn
+¦   ¦   +---bin
+¦   ¦   +---dist
+¦   +---ajv
+¦   ¦   +---dist
+¦   ¦   ¦   +---compile
+¦   ¦   ¦   ¦   +---codegen
+¦   ¦   ¦   ¦   +---jtd
+¦   ¦   ¦   ¦   +---validate
+¦   ¦   ¦   +---refs
+¦   ¦   ¦   ¦   +---json-schema-2019-09
+¦   ¦   ¦   ¦   ¦   +---meta
+¦   ¦   ¦   ¦   +---json-schema-2020-12
+¦   ¦   ¦   ¦       +---meta
+¦   ¦   ¦   +---runtime
+¦   ¦   ¦   +---standalone
+¦   ¦   ¦   +---types
+¦   ¦   ¦   +---vocabularies
+¦   ¦   ¦       +---applicator
+¦   ¦   ¦       +---core
+¦   ¦   ¦       +---discriminator
+¦   ¦   ¦       +---dynamic
+¦   ¦   ¦       +---format
+¦   ¦   ¦       +---jtd
+¦   ¦   ¦       +---unevaluated
+¦   ¦   ¦       +---validation
+¦   ¦   +---lib
+¦   ¦       +---compile
+¦   ¦       ¦   +---codegen
+¦   ¦       ¦   +---jtd
+¦   ¦       ¦   +---validate
+¦   ¦       +---refs
+¦   ¦       ¦   +---json-schema-2019-09
+¦   ¦       ¦   ¦   +---meta
+¦   ¦       ¦   +---json-schema-2020-12
+¦   ¦       ¦       +---meta
+¦   ¦       +---runtime
+¦   ¦       +---standalone
+¦   ¦       +---types
+¦   ¦       +---vocabularies
+¦   ¦           +---applicator
+¦   ¦           +---core
+¦   ¦           +---discriminator
+¦   ¦           +---dynamic
+¦   ¦           +---format
+¦   ¦           +---jtd
+¦   ¦           +---unevaluated
+¦   ¦           +---validation
+¦   +---ajv-formats
+¦   ¦   +---dist
+¦   ¦   +---src
+¦   +---ajv-keywords
+¦   ¦   +---dist
+¦   ¦   ¦   +---definitions
+¦   ¦   ¦   +---keywords
+¦   ¦   +---src
+¦   ¦       +---definitions
+¦   ¦       +---keywords
+¦   +---ansi-regex
+¦   +---ansi-styles
+¦   +---any-promise
+¦   ¦   +---register
+¦   +---anymatch
+¦   ¦   +---node_modules
+¦   ¦       +---picomatch
+¦   ¦           +---lib
+¦   +---arg
+¦   +---array-bounds
+¦   +---array-find-index
+¦   +---array-normalize
+¦   +---array-range
+¦   +---array-rearrange
+¦   +---autoprefixer
+¦   ¦   +---bin
+¦   ¦   +---data
+¦   ¦   +---lib
+¦   ¦       +---hacks
+¦   +---balanced-match
+¦   ¦   +---.github
+¦   +---base64-arraybuffer
+¦   ¦   +---dist
+¦   ¦       +---lib
+¦   ¦       +---types
+¦   +---binary-extensions
+¦   +---binary-search-bounds
+¦   ¦   +---example
+¦   ¦   +---test
+¦   +---bit-twiddle
+¦   ¦   +---test
+¦   +---bitmap-sdf
+¦   +---bl
+¦   ¦   +---test
+¦   +---brace-expansion
+¦   ¦   +---.github
+¦   +---braces
+¦   ¦   +---lib
+¦   +---browserslist
+¦   +---buffer-from
+¦   +---camelcase-css
+¦   +---caniuse-lite
+¦   ¦   +---data
+¦   ¦   ¦   +---features
+¦   ¦   ¦   +---regions
+¦   ¦   +---dist
+¦   ¦       +---lib
+¦   ¦       +---unpacker
+¦   +---canvas-fit
+¦   +---chokidar
+¦   ¦   +---lib
+¦   ¦   +---node_modules
+¦   ¦   ¦   +---glob-parent
+¦   ¦   +---types
+¦   +---chrome-trace-event
+¦   ¦   +---dist
+¦   +---clamp
+¦   +---color-alpha
+¦   ¦   +---node_modules
+¦   ¦       +---color-parse
+¦   +---color-convert
+¦   +---color-id
+¦   +---color-name
+¦   +---color-normalize
+¦   ¦   +---node_modules
+¦   ¦       +---color-parse
+¦   ¦       +---color-rgba
+¦   +---color-parse
+¦   ¦   +---.github
+¦   ¦       +---workflows
+¦   +---color-rgba
+¦   ¦   +---.github
+¦   ¦       +---workflows
+¦   +---color-space
+¦   ¦   +---dist
+¦   ¦   +---types
+¦   +---commander
+¦   ¦   +---typings
+¦   +---concat-stream
+¦   +---convert-source-map
+¦   +---core-util-is
+¦   ¦   +---lib
+¦   +---country-regex
+¦   +---cross-spawn
+¦   ¦   +---lib
+¦   ¦       +---util
+¦   +---css-font
+¦   ¦   +---lib
+¦   +---css-font-size-keywords
+¦   +---css-font-stretch-keywords
+¦   +---css-font-style-keywords
+¦   +---css-font-weight-keywords
+¦   +---css-global-keywords
+¦   +---css-loader
+¦   ¦   +---dist
+¦   ¦   ¦   +---plugins
+¦   ¦   ¦   +---runtime
+¦   ¦   +---node_modules
+¦   ¦       +---.bin
+¦   ¦       +---semver
+¦   ¦           +---bin
+¦   ¦           +---classes
+¦   ¦           +---functions
+¦   ¦           +---internal
+¦   ¦           +---ranges
+¦   +---css-system-font-keywords
+¦   +---csscolorparser
+¦   +---cssesc
+¦   ¦   +---bin
+¦   ¦   +---man
+¦   +---csstype
+¦   +---d
+¦   +---d3-array
+¦   ¦   +---dist
+¦   ¦   +---src
+¦   ¦       +---threshold
+¦   +---d3-collection
+¦   ¦   +---dist
+¦   ¦   +---src
+¦   +---d3-color
+¦   ¦   +---dist
+¦   ¦   +---src
+¦   +---d3-dispatch
+¦   ¦   +---dist
+¦   ¦   +---src
+¦   +---d3-force
+¦   ¦   +---dist
+¦   ¦   +---src
+¦   +---d3-format
+¦   ¦   +---dist
+¦   ¦   +---locale
+¦   ¦   +---src
+¦   +---d3-geo
+¦   ¦   +---dist
+¦   ¦   +---src
+¦   ¦       +---clip
+¦   ¦       +---path
+¦   ¦       +---projection
+¦   +---d3-geo-projection
+¦   ¦   +---bin
+¦   ¦   +---dist
+¦   ¦   +---node_modules
+¦   ¦   ¦   +---commander
+¦   ¦   ¦       +---typings
+¦   ¦   +---src
+¦   ¦       +---interrupted
+¦   ¦       +---polyhedral
+¦   ¦       +---project
+¦   ¦       +---quincuncial
+¦   +---d3-hierarchy
+¦   ¦   +---dist
+¦   ¦   +---src
+¦   ¦       +---hierarchy
+¦   ¦       +---pack
+¦   ¦       +---treemap
+¦   +---d3-interpolate
+¦   ¦   +---dist
+¦   ¦   +---src
+¦   ¦       +---transform
+¦   +---d3-path
+¦   ¦   +---dist
+¦   ¦   +---src
+¦   +---d3-quadtree
+¦   ¦   +---dist
+¦   ¦   +---src
+¦   +---d3-shape
+¦   ¦   +---dist
+¦   ¦   +---src
+¦   ¦       +---curve
+¦   ¦       +---link
+¦   ¦       +---offset
+¦   ¦       +---order
+¦   ¦       +---symbol
+¦   +---d3-time
+¦   ¦   +---dist
+¦   ¦   +---src
+¦   +---d3-time-format
+¦   ¦   +---dist
+¦   ¦   +---locale
+¦   ¦   +---src
+¦   +---d3-timer
+¦   ¦   +---dist
+¦   ¦   +---src
+¦   +---debug
+¦   ¦   +---src
+¦   +---defined
+¦   ¦   +---.github
+¦   ¦   +---example
+¦   ¦   +---test
+¦   +---detect-kerning
+¦   +---detect-libc
+¦   ¦   +---lib
+¦   +---didyoumean
+¦   +---dlv
+¦   ¦   +---dist
+¦   +---draw-svg-path
+¦   +---dtype
+¦   +---dup
+¦   ¦   +---test
+¦   +---duplexify
+¦   +---earcut
+¦   ¦   +---dist
+¦   ¦   +---src
+¦   +---eastasianwidth
+¦   +---electron-to-chromium
+¦   +---element-size
+¦   +---elementary-circuits-directed-graph
+¦   ¦   +---.circleci
+¦   ¦   +---test
+¦   +---emoji-regex
+¦   ¦   +---es2015
+¦   +---end-of-stream
+¦   +---enhanced-resolve
+¦   ¦   +---lib
+¦   ¦       +---util
+¦   +---es-module-lexer
+¦   ¦   +---dist
+¦   ¦   +---types
+¦   +---es5-ext
+¦   ¦   +---array
+¦   ¦   ¦   +---#
+¦   ¦   ¦   ¦   +---@@iterator
+¦   ¦   ¦   ¦   +---concat
+¦   ¦   ¦   ¦   +---copy-within
+¦   ¦   ¦   ¦   +---entries
+¦   ¦   ¦   ¦   +---fill
+¦   ¦   ¦   ¦   +---filter
+¦   ¦   ¦   ¦   +---find
+¦   ¦   ¦   ¦   +---find-index
+¦   ¦   ¦   ¦   +---keys
+¦   ¦   ¦   ¦   +---map
+¦   ¦   ¦   ¦   +---slice
+¦   ¦   ¦   ¦   +---splice
+¦   ¦   ¦   ¦   +---values
+¦   ¦   ¦   +---from
+¦   ¦   ¦   +---of
+¦   ¦   +---boolean
+¦   ¦   +---date
+¦   ¦   ¦   +---#
+¦   ¦   +---error
+¦   ¦   ¦   +---#
+¦   ¦   +---function
+¦   ¦   ¦   +---#
+¦   ¦   +---iterable
+¦   ¦   +---json
+¦   ¦   +---math
+¦   ¦   ¦   +---acosh
+¦   ¦   ¦   +---asinh
+¦   ¦   ¦   +---atanh
+¦   ¦   ¦   +---cbrt
+¦   ¦   ¦   +---clz32
+¦   ¦   ¦   +---cosh
+¦   ¦   ¦   +---expm1
+¦   ¦   ¦   +---fround
+¦   ¦   ¦   +---hypot
+¦   ¦   ¦   +---imul
+¦   ¦   ¦   +---log10
+¦   ¦   ¦   +---log1p
+¦   ¦   ¦   +---log2
+¦   ¦   ¦   +---sign
+¦   ¦   ¦   +---sinh
+¦   ¦   ¦   +---tanh
+¦   ¦   ¦   +---trunc
+¦   ¦   +---number
+¦   ¦   ¦   +---#
+¦   ¦   ¦   +---epsilon
+¦   ¦   ¦   +---is-finite
+¦   ¦   ¦   +---is-integer
+¦   ¦   ¦   +---is-nan
+¦   ¦   ¦   +---is-safe-integer
+¦   ¦   ¦   +---max-safe-integer
+¦   ¦   ¦   +---min-safe-integer
+¦   ¦   +---object
+¦   ¦   ¦   +---assign
+¦   ¦   ¦   +---entries
+¦   ¦   ¦   +---keys
+¦   ¦   ¦   +---set-prototype-of
+¦   ¦   +---promise
+¦   ¦   ¦   +---#
+¦   ¦   ¦       +---finally
+¦   ¦   +---reg-exp
+¦   ¦   ¦   +---#
+¦   ¦   ¦       +---match
+¦   ¦   ¦       +---replace
+¦   ¦   ¦       +---search
+¦   ¦   ¦       +---split
+¦   ¦   ¦       +---sticky
+¦   ¦   ¦       +---unicode
+¦   ¦   +---string
+¦   ¦       +---#
+¦   ¦       ¦   +---@@iterator
+¦   ¦       ¦   +---code-point-at
+¦   ¦       ¦   +---contains
+¦   ¦       ¦   +---ends-with
+¦   ¦       ¦   +---normalize
+¦   ¦       ¦   +---repeat
+¦   ¦       ¦   +---starts-with
+¦   ¦       +---from-code-point
+¦   ¦       +---raw
+¦   +---es6-iterator
+¦   ¦   +---#
+¦   ¦   +---test
+¦   ¦       +---#
+¦   +---es6-symbol
+¦   ¦   +---lib
+¦   ¦       +---private
+¦   ¦           +---setup
+¦   +---es6-weak-map
+¦   ¦   +---test
+¦   +---esbuild
+¦   ¦   +---bin
+¦   ¦   +---lib
+¦   +---esbuild-style-plugin
+¦   ¦   +---dist
+¦   +---escalade
+¦   ¦   +---dist
+¦   ¦   +---sync
+¦   +---escodegen
+¦   ¦   +---bin
+¦   +---eslint-scope
+¦   ¦   +---lib
+¦   ¦   +---node_modules
+¦   ¦       +---estraverse
+¦   +---esniff
+¦   ¦   +---lib
+¦   ¦   +---utils
+¦   +---esprima
+¦   ¦   +---bin
+¦   ¦   +---dist
+¦   +---esrecurse
+¦   +---estraverse
+¦   +---esutils
+¦   ¦   +---lib
+¦   +---event-emitter
+¦   ¦   +---benchmark
+¦   ¦   +---test
+¦   +---events
+¦   ¦   +---.github
+¦   ¦   +---tests
+¦   +---ext
+¦   ¦   +---docs
+¦   ¦   ¦   +---function
+¦   ¦   ¦   +---math
+¦   ¦   ¦   +---object
+¦   ¦   ¦   +---promise
+¦   ¦   ¦   +---string
+¦   ¦   ¦   +---string_
+¦   ¦   ¦   +---thenable_
+¦   ¦   +---function
+¦   ¦   +---global-this
+¦   ¦   +---lib
+¦   ¦   ¦   +---private
+¦   ¦   +---math
+¦   ¦   +---object
+¦   ¦   ¦   +---entries
+¦   ¦   +---promise
+¦   ¦   +---string
+¦   ¦   +---string_
+¦   ¦   ¦   +---includes
+¦   ¦   +---thenable_
+¦   +---falafel
+¦   ¦   +---.github
+¦   ¦   ¦   +---workflows
+¦   ¦   +---example
+¦   ¦   +---test
+¦   ¦       +---bin
+¦   +---fast-deep-equal
+¦   ¦   +---es6
+¦   +---fast-glob
+¦   ¦   +---node_modules
+¦   ¦   ¦   +---glob-parent
+¦   ¦   +---out
+¦   ¦       +---managers
+¦   ¦       +---providers
+¦   ¦       ¦   +---filters
+¦   ¦       ¦   +---matchers
+¦   ¦       ¦   +---transformers
+¦   ¦       +---readers
+¦   ¦       +---types
+¦   ¦       +---utils
+¦   +---fast-isnumeric
+¦   +---fast-uri
+¦   ¦   +---.github
+¦   ¦   ¦   +---workflows
+¦   ¦   +---lib
+¦   ¦   +---test
+¦   ¦   +---types
+¦   +---fastq
+¦   ¦   +---.github
+¦   ¦   ¦   +---workflows
+¦   ¦   +---test
+¦   +---fdir
+¦   ¦   +---dist
+¦   ¦       +---api
+¦   ¦       ¦   +---functions
+¦   ¦       +---builder
+¦   +---fill-range
+¦   +---flatten-vertex-data
+¦   +---font-atlas
+¦   +---font-measure
+¦   +---foreground-child
+¦   ¦   +---dist
+¦   ¦       +---commonjs
+¦   ¦       +---esm
+¦   +---fraction.js
+¦   +---framer-motion
+¦   ¦   +---client
+¦   ¦   +---dist
+¦   ¦   ¦   +---cjs
+¦   ¦   ¦   +---es
+¦   ¦   ¦   ¦   +---animation
+¦   ¦   ¦   ¦   ¦   +---animate
+¦   ¦   ¦   ¦   ¦   +---animators
+¦   ¦   ¦   ¦   ¦   ¦   +---waapi
+¦   ¦   ¦   ¦   ¦   ¦       +---utils
+¦   ¦   ¦   ¦   ¦   +---hooks
+¦   ¦   ¦   ¦   ¦   +---interfaces
+¦   ¦   ¦   ¦   ¦   +---optimized-appear
+¦   ¦   ¦   ¦   ¦   +---sequence
+¦   ¦   ¦   ¦   ¦   ¦   +---utils
+¦   ¦   ¦   ¦   ¦   +---utils
+¦   ¦   ¦   ¦   +---components
+¦   ¦   ¦   ¦   ¦   +---AnimatePresence
+¦   ¦   ¦   ¦   ¦   +---LayoutGroup
+¦   ¦   ¦   ¦   ¦   +---LazyMotion
+¦   ¦   ¦   ¦   ¦   +---MotionConfig
+¦   ¦   ¦   ¦   ¦   +---Reorder
+¦   ¦   ¦   ¦   ¦       +---utils
+¦   ¦   ¦   ¦   +---context
+¦   ¦   ¦   ¦   ¦   +---MotionContext
+¦   ¦   ¦   ¦   +---events
+¦   ¦   ¦   ¦   +---gestures
+¦   ¦   ¦   ¦   ¦   +---drag
+¦   ¦   ¦   ¦   ¦   ¦   +---utils
+¦   ¦   ¦   ¦   ¦   +---pan
+¦   ¦   ¦   ¦   +---motion
+¦   ¦   ¦   ¦   ¦   +---features
+¦   ¦   ¦   ¦   ¦   ¦   +---animation
+¦   ¦   ¦   ¦   ¦   ¦   +---layout
+¦   ¦   ¦   ¦   ¦   ¦   +---viewport
+¦   ¦   ¦   ¦   ¦   +---utils
+¦   ¦   ¦   ¦   +---projection
+¦   ¦   ¦   ¦   ¦   +---animation
+¦   ¦   ¦   ¦   ¦   +---geometry
+¦   ¦   ¦   ¦   ¦   +---node
+¦   ¦   ¦   ¦   ¦   +---shared
+¦   ¦   ¦   ¦   ¦   +---styles
+¦   ¦   ¦   ¦   ¦   +---utils
+¦   ¦   ¦   ¦   +---render
+¦   ¦   ¦   ¦   ¦   +---components
+¦   ¦   ¦   ¦   ¦   ¦   +---m
+¦   ¦   ¦   ¦   ¦   ¦   +---motion
+¦   ¦   ¦   ¦   ¦   +---dom
+¦   ¦   ¦   ¦   ¦   ¦   +---resize
+¦   ¦   ¦   ¦   ¦   ¦   +---scroll
+¦   ¦   ¦   ¦   ¦   ¦   ¦   +---offsets
+¦   ¦   ¦   ¦   ¦   ¦   ¦   +---utils
+¦   ¦   ¦   ¦   ¦   ¦   +---utils
+¦   ¦   ¦   ¦   ¦   ¦   +---viewport
+¦   ¦   ¦   ¦   ¦   +---html
+¦   ¦   ¦   ¦   ¦   ¦   +---utils
+¦   ¦   ¦   ¦   ¦   +---object
+¦   ¦   ¦   ¦   ¦   +---svg
+¦   ¦   ¦   ¦   ¦   ¦   +---utils
+¦   ¦   ¦   ¦   ¦   +---utils
+¦   ¦   ¦   ¦   +---utils
+¦   ¦   ¦   ¦   ¦   +---reduced-motion
+¦   ¦   ¦   ¦   +---value
+¦   ¦   ¦   ¦       +---scroll
+¦   ¦   ¦   ¦       +---use-will-change
+¦   ¦   ¦   ¦       +---utils
+¦   ¦   ¦   +---types
+¦   ¦   +---dom
+¦   ¦   ¦   +---mini
+¦   ¦   +---m
+¦   ¦   +---mini
+¦   +---from2
+¦   +---function-bind
+¦   ¦   +---.github
+¦   ¦   +---test
+¦   +---generic-names
+¦   ¦   +---.idea
+¦   ¦       +---codeStyles
+¦   ¦       +---dictionaries
+¦   ¦       +---inspectionProfiles
+¦   +---gensync
+¦   ¦   +---test
+¦   +---geojson-vt
+¦   ¦   +---src
+¦   +---get-canvas-context
+¦   +---get-stream
+¦   +---gl-mat4
+¦   +---gl-matrix
+¦   ¦   +---cjs
+¦   ¦   +---esm
+¦   ¦   +---mat2
+¦   ¦   +---mat2d
+¦   ¦   +---mat3
+¦   ¦   +---mat4
+¦   ¦   +---quat
+¦   ¦   +---quat2
+¦   ¦   +---types.d.ts
+¦   ¦   +---vec2
+¦   ¦   +---vec3
+¦   ¦   +---vec4
+¦   +---gl-text
+¦   +---gl-util
+¦   ¦   +---test
+¦   +---glob
+¦   ¦   +---dist
+¦   ¦       +---commonjs
+¦   ¦       +---esm
+¦   +---glob-parent
+¦   +---glob-to-regexp
+¦   +---global-prefix
+¦   ¦   +---node_modules
+¦   ¦       +---.bin
+¦   ¦       +---isexe
+¦   ¦       ¦   +---dist
+¦   ¦       ¦       +---cjs
+¦   ¦       ¦       +---mjs
+¦   ¦       +---which
+¦   ¦           +---bin
+¦   ¦           +---lib
+¦   +---globals
+¦   +---glsl-inject-defines
+¦   +---glsl-resolve
+¦   ¦   +---node_modules
+¦   ¦       +---resolve
+¦   ¦       ¦   +---example
+¦   ¦       ¦   +---lib
+¦   ¦       ¦   +---test
+¦   ¦       ¦       +---node_path
+¦   ¦       ¦       ¦   +---x
+¦   ¦       ¦       ¦   ¦   +---aaa
+¦   ¦       ¦       ¦   ¦   +---ccc
+¦   ¦       ¦       ¦   +---y
+¦   ¦       ¦       ¦       +---bbb
+¦   ¦       ¦       ¦       +---ccc
+¦   ¦       ¦       +---resolver
+¦   ¦       ¦           +---bar
+¦   ¦       ¦           ¦   +---node_modules
+¦   ¦       ¦           ¦       +---foo
+¦   ¦       ¦           +---baz
+¦   ¦       ¦           +---biz
+¦   ¦       ¦           ¦   +---node_modules
+¦   ¦       ¦           ¦       +---garply
+¦   ¦       ¦           ¦       ¦   +---lib
+¦   ¦       ¦           ¦       +---grux
+¦   ¦       ¦           ¦       +---tiv
+¦   ¦       ¦           +---incorrect_main
+¦   ¦       ¦           +---other_path
+¦   ¦       ¦           ¦   +---lib
+¦   ¦       ¦           +---punycode
+¦   ¦       ¦           ¦   +---node_modules
+¦   ¦       ¦           ¦       +---punycode
+¦   ¦       ¦           +---quux
+¦   ¦       ¦           ¦   +---foo
+¦   ¦       ¦           +---without_basedir
+¦   ¦       ¦               +---node_modules
+¦   ¦       +---xtend
+¦   +---glsl-token-assignments
+¦   +---glsl-token-defines
+¦   +---glsl-token-depth
+¦   +---glsl-token-descope
+¦   +---glsl-token-inject-block
+¦   +---glsl-token-properties
+¦   +---glsl-token-scope
+¦   +---glsl-token-string
+¦   +---glsl-token-whitespace-trim
+¦   ¦   +---fixtures
+¦   +---glsl-tokenizer
+¦   ¦   +---lib
+¦   ¦   +---node_modules
+¦   ¦       +---isarray
+¦   ¦       ¦   +---build
+¦   ¦       +---readable-stream
+¦   ¦       ¦   +---lib
+¦   ¦       +---string_decoder
+¦   ¦       +---through2
+¦   +---glslify
+¦   +---glslify-bundle
+¦   ¦   +---fixtures
+¦   ¦   +---lib
+¦   +---glslify-deps
+¦   +---graceful-fs
+¦   +---grid-index
+¦   ¦   +---test
+¦   +---has-flag
+¦   +---has-hover
+¦   +---has-passive-events
+¦   +---hasown
+¦   ¦   +---.github
+¦   +---iconv-lite
+¦   ¦   +---encodings
+¦   ¦   ¦   +---tables
+¦   ¦   +---lib
+¦   +---icss-utils
+¦   ¦   +---src
+¦   +---ieee754
+¦   +---inherits
+¦   +---ini
+¦   ¦   +---lib
+¦   +---is-binary-path
+¦   +---is-browser
+¦   +---is-core-module
+¦   ¦   +---test
+¦   +---is-extglob
+¦   +---is-finite
+¦   +---is-firefox
+¦   +---is-fullwidth-code-point
+¦   +---is-glob
+¦   +---is-iexplorer
+¦   +---is-mobile
+¦   ¦   +---.github
+¦   +---is-number
+¦   +---is-obj
+¦   +---is-plain-obj
+¦   +---is-string-blank
+¦   +---is-svg-path
+¦   +---isarray
+¦   +---isexe
+¦   ¦   +---test
+¦   +---jackspeak
+¦   ¦   +---dist
+¦   ¦       +---commonjs
+¦   ¦       +---esm
+¦   +---jest-worker
+¦   ¦   +---build
+¦   ¦       +---base
+¦   ¦       +---workers
+¦   +---jiti
+¦   ¦   +---dist
+¦   ¦   +---lib
+¦   +---js-tokens
+¦   +---jsesc
+¦   ¦   +---bin
+¦   ¦   +---man
+¦   +---json-parse-even-better-errors
+¦   +---json-schema-traverse
+¦   ¦   +---.github
+¦   ¦   ¦   +---workflows
+¦   ¦   +---spec
+¦   ¦       +---fixtures
+¦   +---json-stringify-pretty-compact
+¦   +---json5
+¦   ¦   +---dist
+¦   ¦   +---lib
+¦   +---kdbush
+¦   +---kind-of
+¦   +---lightningcss
+¦   ¦   +---node
+¦   +---lightningcss-win32-x64-msvc
+¦   +---lilconfig
+¦   ¦   +---dist
+¦   +---lines-and-columns
+¦   ¦   +---build
+¦   +---loader-runner
+¦   ¦   +---lib
+¦   +---loader-utils
+¦   ¦   +---lib
+¦   ¦       +---hash
+¦   +---lodash.camelcase
+¦   +---lodash.merge
+¦   +---loose-envify
+¦   +---lru-cache
+¦   +---map-limit
+¦   ¦   +---node_modules
+¦   ¦       +---once
+¦   +---mapbox-gl
+¦   ¦   +---build
+¦   ¦   ¦   +---test
+¦   ¦   +---dist
+¦   ¦   ¦   +---style-spec
+¦   ¦   +---flow-typed
+¦   ¦   +---src
+¦   ¦       +---css
+¦   ¦       ¦   +---svg
+¦   ¦       +---data
+¦   ¦       ¦   +---bucket
+¦   ¦       +---geo
+¦   ¦       +---gl
+¦   ¦       +---render
+¦   ¦       ¦   +---program
+¦   ¦       +---shaders
+¦   ¦       +---source
+¦   ¦       +---style
+¦   ¦       ¦   +---style_layer
+¦   ¦       +---style-spec
+¦   ¦       ¦   +---bin
+¦   ¦       ¦   +---dist
+¦   ¦       ¦   +---error
+¦   ¦       ¦   +---expression
+¦   ¦       ¦   ¦   +---definitions
+¦   ¦       ¦   ¦   +---types
+¦   ¦       ¦   +---feature_filter
+¦   ¦       ¦   +---function
+¦   ¦       ¦   +---migrate
+¦   ¦       ¦   +---reference
+¦   ¦       ¦   +---util
+¦   ¦       ¦   +---validate
+¦   ¦       +---symbol
+¦   ¦       +---types
+¦   ¦       +---ui
+¦   ¦       ¦   +---control
+¦   ¦       ¦   +---handler
+¦   ¦       ¦       +---shim
+¦   ¦       +---util
+¦   ¦           +---browser
+¦   +---maplibre-gl
+¦   ¦   +---build
+¦   ¦   ¦   +---rollup
+¦   ¦   +---dist
+¦   ¦   +---node_modules
+¦   ¦   ¦   +---@mapbox
+¦   ¦   ¦   ¦   +---tiny-sdf
+¦   ¦   ¦   ¦   +---unitbezier
+¦   ¦   ¦   +---earcut
+¦   ¦   ¦   ¦   +---dist
+¦   ¦   ¦   ¦   +---src
+¦   ¦   ¦   +---geojson-vt
+¦   ¦   ¦   ¦   +---src
+¦   ¦   ¦   +---potpack
+¦   ¦   ¦   +---quickselect
+¦   ¦   ¦   +---supercluster
+¦   ¦   ¦   ¦   +---dist
+¦   ¦   ¦   +---tinyqueue
+¦   ¦   +---src
+¦   ¦       +---css
+¦   ¦       ¦   +---svg
+¦   ¦       +---data
+¦   ¦       ¦   +---bucket
+¦   ¦       +---geo
+¦   ¦       ¦   +---projection
+¦   ¦       +---gl
+¦   ¦       +---render
+¦   ¦       ¦   +---program
+¦   ¦       +---shaders
+¦   ¦       +---source
+¦   ¦       +---style
+¦   ¦       ¦   +---style_layer
+¦   ¦       +---symbol
+¦   ¦       +---ui
+¦   ¦       ¦   +---control
+¦   ¦       ¦   +---handler
+¦   ¦       ¦   ¦   +---shim
+¦   ¦       ¦   +---map_tests
+¦   ¦       +---util
+¦   ¦           +---test
+¦   +---math-log2
+¦   +---merge-stream
+¦   +---merge2
+¦   +---micromatch
+¦   ¦   +---node_modules
+¦   ¦       +---picomatch
+¦   ¦           +---lib
+¦   +---mime-db
+¦   +---mime-types
+¦   +---minimatch
+¦   ¦   +---dist
+¦   ¦       +---commonjs
+¦   ¦       +---esm
+¦   +---minimist
+¦   ¦   +---.github
+¦   ¦   +---example
+¦   ¦   +---test
+¦   +---minipass
+¦   ¦   +---dist
+¦   ¦       +---commonjs
+¦   ¦       +---esm
+¦   +---motion-dom
+¦   ¦   +---dist
+¦   ¦       +---cjs
+¦   ¦       +---es
+¦   ¦           +---animation
+¦   ¦           ¦   +---drivers
+¦   ¦           ¦   +---generators
+¦   ¦           ¦   ¦   +---spring
+¦   ¦           ¦   ¦   +---utils
+¦   ¦           ¦   +---keyframes
+¦   ¦           ¦   ¦   +---offsets
+¦   ¦           ¦   ¦   +---utils
+¦   ¦           ¦   +---utils
+¦   ¦           ¦   +---waapi
+¦   ¦           ¦       +---easing
+¦   ¦           ¦       +---supports
+¦   ¦           ¦       +---utils
+¦   ¦           +---frameloop
+¦   ¦           +---gestures
+¦   ¦           ¦   +---drag
+¦   ¦           ¦   ¦   +---state
+¦   ¦           ¦   +---press
+¦   ¦           ¦   ¦   +---utils
+¦   ¦           ¦   +---utils
+¦   ¦           +---render
+¦   ¦           ¦   +---dom
+¦   ¦           ¦   +---utils
+¦   ¦           +---scroll
+¦   ¦           +---stats
+¦   ¦           +---utils
+¦   ¦           ¦   +---mix
+¦   ¦           ¦   +---supports
+¦   ¦           +---value
+¦   ¦           ¦   +---types
+¦   ¦           ¦       +---color
+¦   ¦           ¦       +---complex
+¦   ¦           ¦       +---maps
+¦   ¦           ¦       +---numbers
+¦   ¦           ¦       +---utils
+¦   ¦           +---view
+¦   ¦               +---utils
+¦   +---motion-utils
+¦   ¦   +---dist
+¦   ¦       +---cjs
+¦   ¦       +---es
+¦   ¦           +---easing
+¦   ¦               +---modifiers
+¦   ¦               +---utils
+¦   +---mouse-change
+¦   ¦   +---example
+¦   +---mouse-event
+¦   ¦   +---example
+¦   +---mouse-event-offset
+¦   +---mouse-wheel
+¦   ¦   +---example
+¦   +---ms
+¦   +---murmurhash-js
+¦   +---mz
+¦   +---nanoid
+¦   ¦   +---async
+¦   ¦   +---bin
+¦   ¦   +---non-secure
+¦   ¦   +---url-alphabet
+¦   +---native-promise-only
+¦   ¦   +---lib
+¦   +---needle
+¦   ¦   +---.github
+¦   ¦   ¦   +---workflows
+¦   ¦   +---bin
+¦   ¦   +---examples
+¦   ¦   +---lib
+¦   ¦   +---node_modules
+¦   ¦   ¦   +---debug
+¦   ¦   ¦       +---src
+¦   ¦   +---test
+¦   ¦       +---utils
+¦   +---neo-async
+¦   +---next-tick
+¦   ¦   +---.github
+¦   ¦   +---test
+¦   +---node-releases
+¦   ¦   +---data
+¦   ¦       +---processed
+¦   ¦       +---release-schedule
+¦   +---normalize-path
+¦   +---normalize-range
+¦   +---normalize-svg-path
+¦   +---number-is-integer
+¦   +---object-assign
+¦   +---object-hash
+¦   ¦   +---dist
+¦   +---once
+¦   +---package-json-from-dist
+¦   ¦   +---dist
+¦   ¦       +---commonjs
+¦   ¦       +---esm
+¦   +---parenthesis
+¦   +---parse-rect
+¦   +---parse-svg-path
+¦   +---parse-unit
+¦   +---path-key
+¦   +---path-parse
+¦   +---path-scurry
+¦   ¦   +---dist
+¦   ¦   ¦   +---commonjs
+¦   ¦   ¦   +---esm
+¦   ¦   +---node_modules
+¦   ¦       +---lru-cache
+¦   ¦           +---dist
+¦   ¦               +---commonjs
+¦   ¦               +---esm
+¦   +---pbf
+¦   ¦   +---bin
+¦   ¦   +---dist
+¦   +---performance-now
+¦   ¦   +---lib
+¦   ¦   +---src
+¦   ¦   +---test
+¦   ¦       +---scripts
+¦   +---pick-by-alias
+¦   +---picocolors
+¦   +---picomatch
+¦   ¦   +---lib
+¦   +---pify
+¦   +---pirates
+¦   ¦   +---lib
+¦   +---plotly.js
+¦   ¦   +---.circleci
+¦   ¦   +---.github
+¦   ¦   +---.vscode
+¦   ¦   +---build
+¦   ¦   +---dist
+¦   ¦   ¦   +---topojson
+¦   ¦   +---lib
+¦   ¦   ¦   +---locales
+¦   ¦   +---src
+¦   ¦   ¦   +---.vscode
+¦   ¦   ¦   +---assets
+¦   ¦   ¦   +---components
+¦   ¦   ¦   ¦   +---annotations
+¦   ¦   ¦   ¦   +---annotations3d
+¦   ¦   ¦   ¦   +---calendars
+¦   ¦   ¦   ¦   +---color
+¦   ¦   ¦   ¦   +---colorbar
+¦   ¦   ¦   ¦   +---colorscale
+¦   ¦   ¦   ¦   +---dragelement
+¦   ¦   ¦   ¦   +---drawing
+¦   ¦   ¦   ¦   +---errorbars
+¦   ¦   ¦   ¦   +---fx
+¦   ¦   ¦   ¦   +---grid
+¦   ¦   ¦   ¦   +---images
+¦   ¦   ¦   ¦   +---legend
+¦   ¦   ¦   ¦   +---modebar
+¦   ¦   ¦   ¦   +---rangeselector
+¦   ¦   ¦   ¦   +---rangeslider
+¦   ¦   ¦   ¦   +---selections
+¦   ¦   ¦   ¦   ¦   +---draw_newselection
+¦   ¦   ¦   ¦   +---shapes
+¦   ¦   ¦   ¦   ¦   +---draw_newshape
+¦   ¦   ¦   ¦   +---sliders
+¦   ¦   ¦   ¦   +---titles
+¦   ¦   ¦   ¦   +---updatemenus
+¦   ¦   ¦   +---constants
+¦   ¦   ¦   +---css
+¦   ¦   ¦   +---fonts
+¦   ¦   ¦   +---generated
+¦   ¦   ¦   ¦   +---regl-codegen
+¦   ¦   ¦   +---lib
+¦   ¦   ¦   +---plots
+¦   ¦   ¦   ¦   +---cartesian
+¦   ¦   ¦   ¦   +---geo
+¦   ¦   ¦   ¦   +---gl3d
+¦   ¦   ¦   ¦   ¦   +---layout
+¦   ¦   ¦   ¦   +---map
+¦   ¦   ¦   ¦   ¦   +---styles
+¦   ¦   ¦   ¦   +---mapbox
+¦   ¦   ¦   ¦   +---polar
+¦   ¦   ¦   ¦   +---smith
+¦   ¦   ¦   ¦   +---ternary
+¦   ¦   ¦   +---plot_api
+¦   ¦   ¦   +---snapshot
+¦   ¦   ¦   +---traces
+¦   ¦   ¦   ¦   +---bar
+¦   ¦   ¦   ¦   +---barpolar
+¦   ¦   ¦   ¦   +---box
+¦   ¦   ¦   ¦   +---candlestick
+¦   ¦   ¦   ¦   +---carpet
+¦   ¦   ¦   ¦   +---choropleth
+¦   ¦   ¦   ¦   +---choroplethmap
+¦   ¦   ¦   ¦   +---choroplethmapbox
+¦   ¦   ¦   ¦   +---cone
+¦   ¦   ¦   ¦   +---contour
+¦   ¦   ¦   ¦   +---contourcarpet
+¦   ¦   ¦   ¦   +---densitymap
+¦   ¦   ¦   ¦   +---densitymapbox
+¦   ¦   ¦   ¦   +---funnel
+¦   ¦   ¦   ¦   +---funnelarea
+¦   ¦   ¦   ¦   +---heatmap
+¦   ¦   ¦   ¦   +---histogram
+¦   ¦   ¦   ¦   +---histogram2d
+¦   ¦   ¦   ¦   +---histogram2dcontour
+¦   ¦   ¦   ¦   +---icicle
+¦   ¦   ¦   ¦   +---image
+¦   ¦   ¦   ¦   +---indicator
+¦   ¦   ¦   ¦   +---isosurface
+¦   ¦   ¦   ¦   +---mesh3d
+¦   ¦   ¦   ¦   +---ohlc
+¦   ¦   ¦   ¦   +---parcats
+¦   ¦   ¦   ¦   +---parcoords
+¦   ¦   ¦   ¦   +---pie
+¦   ¦   ¦   ¦   +---sankey
+¦   ¦   ¦   ¦   +---scatter
+¦   ¦   ¦   ¦   +---scatter3d
+¦   ¦   ¦   ¦   +---scattercarpet
+¦   ¦   ¦   ¦   +---scattergeo
+¦   ¦   ¦   ¦   +---scattergl
+¦   ¦   ¦   ¦   +---scattermap
+¦   ¦   ¦   ¦   +---scattermapbox
+¦   ¦   ¦   ¦   +---scatterpolar
+¦   ¦   ¦   ¦   +---scatterpolargl
+¦   ¦   ¦   ¦   +---scattersmith
+¦   ¦   ¦   ¦   +---scatterternary
+¦   ¦   ¦   ¦   +---splom
+¦   ¦   ¦   ¦   +---streamtube
+¦   ¦   ¦   ¦   +---sunburst
+¦   ¦   ¦   ¦   +---surface
+¦   ¦   ¦   ¦   +---table
+¦   ¦   ¦   ¦   +---treemap
+¦   ¦   ¦   ¦   +---violin
+¦   ¦   ¦   ¦   +---volume
+¦   ¦   ¦   ¦   +---waterfall
+¦   ¦   ¦   +---transforms
+¦   ¦   +---stackgl_modules
+¦   ¦   +---tasks
+¦   ¦       +---util
+¦   +---plotly.js-basic-dist
+¦   +---point-in-polygon
+¦   ¦   +---example
+¦   ¦   +---test
+¦   +---polybooljs
+¦   ¦   +---dist
+¦   ¦   +---lib
+¦   +---postcss
+¦   ¦   +---lib
+¦   +---postcss-import
+¦   ¦   +---lib
+¦   +---postcss-js
+¦   +---postcss-load-config
+¦   ¦   +---node_modules
+¦   ¦   ¦   +---lilconfig
+¦   ¦   ¦       +---src
+¦   ¦   +---src
+¦   +---postcss-modules
+¦   ¦   +---.idea
+¦   ¦   ¦   +---codeStyles
+¦   ¦   ¦   +---inspectionProfiles
+¦   ¦   +---build
+¦   +---postcss-modules-extract-imports
+¦   ¦   +---src
+¦   +---postcss-modules-local-by-default
+¦   ¦   +---node_modules
+¦   ¦   ¦   +---postcss-selector-parser
+¦   ¦   ¦       +---dist
+¦   ¦   ¦           +---selectors
+¦   ¦   ¦           +---util
+¦   ¦   +---src
+¦   +---postcss-modules-scope
+¦   ¦   +---node_modules
+¦   ¦   ¦   +---postcss-selector-parser
+¦   ¦   ¦       +---dist
+¦   ¦   ¦           +---selectors
+¦   ¦   ¦           +---util
+¦   ¦   +---src
+¦   +---postcss-modules-values
+¦   ¦   +---src
+¦   +---postcss-nested
+¦   +---postcss-selector-parser
+¦   ¦   +---dist
+¦   ¦       +---selectors
+¦   ¦       +---util
+¦   +---postcss-value-parser
+¦   ¦   +---lib
+¦   +---potpack
+¦   +---probe-image-size
+¦   ¦   +---lib
+¦   ¦       +---parse_stream
+¦   ¦       +---parse_sync
+¦   +---process-nextick-args
+¦   +---prop-types
+¦   ¦   +---lib
+¦   +---protocol-buffers-schema
+¦   ¦   +---test
+¦   ¦       +---fixtures
+¦   +---queue-microtask
+¦   +---quickselect
+¦   +---raf
+¦   +---randombytes
+¦   +---react
+¦   ¦   +---cjs
+¦   ¦   +---umd
+¦   +---react-dom
+¦   ¦   +---cjs
+¦   ¦   +---umd
+¦   +---react-is
+¦   ¦   +---cjs
+¦   ¦   +---umd
+¦   +---react-plotly.js
+¦   ¦   +---.circleci
+¦   ¦   +---.github
+¦   ¦   +---dist
+¦   +---react-refresh
+¦   ¦   +---cjs
+¦   +---read-cache
+¦   +---readable-stream
+¦   ¦   +---doc
+¦   ¦   ¦   +---wg-meetings
+¦   ¦   +---lib
+¦   ¦   ¦   +---internal
+¦   ¦   ¦       +---streams
+¦   ¦   +---node_modules
+¦   ¦       +---isarray
+¦   ¦       +---safe-buffer
+¦   +---readdirp
+¦   ¦   +---node_modules
+¦   ¦       +---picomatch
+¦   ¦           +---lib
+¦   +---regl
+¦   ¦   +---browserify
+¦   ¦   +---dist
+¦   ¦   +---lib
+¦   ¦       +---constants
+¦   ¦       +---util
+¦   +---regl-error2d
+¦   +---regl-line2d
+¦   +---regl-scatter2d
+¦   ¦   +---node_modules
+¦   ¦       +---color-parse
+¦   ¦       +---color-rgba
+¦   +---regl-splom
+¦   ¦   +---test
+¦   +---require-from-string
+¦   +---resolve
+¦   ¦   +---.github
+¦   ¦   +---bin
+¦   ¦   +---example
+¦   ¦   +---lib
+¦   ¦   +---test
+¦   ¦       +---dotdot
+¦   ¦       ¦   +---abc
+¦   ¦       +---module_dir
+¦   ¦       ¦   +---xmodules
+¦   ¦       ¦   ¦   +---aaa
+¦   ¦       ¦   +---ymodules
+¦   ¦       ¦   ¦   +---aaa
+¦   ¦       ¦   +---zmodules
+¦   ¦       ¦       +---bbb
+¦   ¦       +---node_path
+¦   ¦       ¦   +---x
+¦   ¦       ¦   ¦   +---aaa
+¦   ¦       ¦   ¦   +---ccc
+¦   ¦       ¦   +---y
+¦   ¦       ¦       +---bbb
+¦   ¦       ¦       +---ccc
+¦   ¦       +---pathfilter
+¦   ¦       ¦   +---deep_ref
+¦   ¦       +---precedence
+¦   ¦       ¦   +---aaa
+¦   ¦       ¦   +---bbb
+¦   ¦       +---resolver
+¦   ¦       ¦   +---baz
+¦   ¦       ¦   +---browser_field
+¦   ¦       ¦   +---dot_main
+¦   ¦       ¦   +---dot_slash_main
+¦   ¦       ¦   +---false_main
+¦   ¦       ¦   +---incorrect_main
+¦   ¦       ¦   +---invalid_main
+¦   ¦       ¦   +---multirepo
+¦   ¦       ¦   ¦   +---packages
+¦   ¦       ¦   ¦       +---package-a
+¦   ¦       ¦   ¦       +---package-b
+¦   ¦       ¦   +---nested_symlinks
+¦   ¦       ¦   ¦   +---mylib
+¦   ¦       ¦   +---other_path
+¦   ¦       ¦   ¦   +---lib
+¦   ¦       ¦   +---quux
+¦   ¦       ¦   ¦   +---foo
+¦   ¦       ¦   +---same_names
+¦   ¦       ¦   ¦   +---foo
+¦   ¦       ¦   +---symlinked
+¦   ¦       ¦   ¦   +---package
+¦   ¦       ¦   ¦   +---_
+¦   ¦       ¦   ¦       +---node_modules
+¦   ¦       ¦   ¦       +---symlink_target
+¦   ¦       ¦   +---without_basedir
+¦   ¦       +---shadowed_core
+¦   ¦           +---node_modules
+¦   ¦               +---util
+¦   +---resolve-protobuf-schema
+¦   ¦   +---test
+¦   +---reusify
+¦   ¦   +---.github
+¦   ¦   ¦   +---workflows
+¦   ¦   +---benchmarks
+¦   +---right-now
+¦   +---rollup
+¦   ¦   +---dist
+¦   ¦       +---bin
+¦   ¦       +---es
+¦   ¦       ¦   +---shared
+¦   ¦       +---shared
+¦   +---run-parallel
+¦   +---rw
+¦   ¦   +---lib
+¦   ¦   ¦   +---rw
+¦   ¦   +---test
+¦   +---safe-buffer
+¦   +---safer-buffer
+¦   +---sax
+¦   ¦   +---lib
+¦   +---scheduler
+¦   ¦   +---cjs
+¦   ¦   +---umd
+¦   +---schema-utils
+¦   ¦   +---declarations
+¦   ¦   ¦   +---keywords
+¦   ¦   ¦   +---util
+¦   ¦   +---dist
+¦   ¦       +---keywords
+¦   ¦       +---util
+¦   +---semver
+¦   ¦   +---bin
+¦   +---serialize-javascript
+¦   +---shallow-copy
+¦   ¦   +---example
+¦   ¦   +---test
+¦   +---shebang-command
+¦   +---shebang-regex
+¦   +---signal-exit
+¦   ¦   +---dist
+¦   ¦       +---cjs
+¦   ¦       +---mjs
+¦   +---signum
+¦   ¦   +---test
+¦   +---source-map
+¦   ¦   +---dist
+¦   ¦   +---lib
+¦   +---source-map-js
+¦   ¦   +---lib
+¦   +---source-map-support
+¦   +---stack-trace
+¦   ¦   +---lib
+¦   +---static-eval
+¦   ¦   +---example
+¦   ¦   +---test
+¦   +---stream-parser
+¦   ¦   +---node_modules
+¦   ¦   ¦   +---debug
+¦   ¦   ¦   ¦   +---src
+¦   ¦   ¦   +---ms
+¦   ¦   +---test
+¦   +---stream-shift
+¦   ¦   +---.github
+¦   ¦       +---workflows
+¦   +---string-hash
+¦   +---string-split-by
+¦   +---string-width
+¦   +---string-width-cjs
+¦   ¦   +---node_modules
+¦   ¦       +---ansi-regex
+¦   ¦       +---emoji-regex
+¦   ¦       ¦   +---es2015
+¦   ¦       +---strip-ansi
+¦   +---string_decoder
+¦   ¦   +---lib
+¦   ¦   +---node_modules
+¦   ¦       +---safe-buffer
+¦   +---strip-ansi
+¦   +---strip-ansi-cjs
+¦   ¦   +---node_modules
+¦   ¦       +---ansi-regex
+¦   +---strongly-connected-components
+¦   ¦   +---test
+¦   +---style-loader
+¦   ¦   +---dist
+¦   ¦       +---runtime
+¦   +---sucrase
+¦   ¦   +---bin
+¦   ¦   +---dist
+¦   ¦   ¦   +---esm
+¦   ¦   ¦   ¦   +---parser
+¦   ¦   ¦   ¦   ¦   +---plugins
+¦   ¦   ¦   ¦   ¦   ¦   +---jsx
+¦   ¦   ¦   ¦   ¦   +---tokenizer
+¦   ¦   ¦   ¦   ¦   +---traverser
+¦   ¦   ¦   ¦   ¦   +---util
+¦   ¦   ¦   ¦   +---transformers
+¦   ¦   ¦   ¦   +---util
+¦   ¦   ¦   +---parser
+¦   ¦   ¦   ¦   +---plugins
+¦   ¦   ¦   ¦   ¦   +---jsx
+¦   ¦   ¦   ¦   +---tokenizer
+¦   ¦   ¦   ¦   +---traverser
+¦   ¦   ¦   ¦   +---util
+¦   ¦   ¦   +---transformers
+¦   ¦   ¦   +---types
+¦   ¦   ¦   ¦   +---parser
+¦   ¦   ¦   ¦   ¦   +---plugins
+¦   ¦   ¦   ¦   ¦   ¦   +---jsx
+¦   ¦   ¦   ¦   ¦   +---tokenizer
+¦   ¦   ¦   ¦   ¦   +---traverser
+¦   ¦   ¦   ¦   ¦   +---util
+¦   ¦   ¦   ¦   +---transformers
+¦   ¦   ¦   ¦   +---util
+¦   ¦   ¦   +---util
+¦   ¦   +---register
+¦   ¦   +---ts-node-plugin
+¦   +---supercluster
+¦   ¦   +---dist
+¦   ¦   +---node_modules
+¦   ¦       +---kdbush
+¦   ¦           +---src
+¦   +---superscript-text
+¦   +---supports-color
+¦   +---supports-preserve-symlinks-flag
+¦   ¦   +---.github
+¦   ¦   +---test
+¦   +---svg-arc-to-cubic-bezier
+¦   ¦   +---cjs
+¦   ¦   +---dist
+¦   ¦   +---modules
+¦   ¦   +---src
+¦   +---svg-path-bounds
+¦   ¦   +---node_modules
+¦   ¦       +---normalize-svg-path
+¦   +---svg-path-sdf
+¦   +---tailwindcss
+¦   ¦   +---lib
+¦   ¦   ¦   +---cli
+¦   ¦   ¦   ¦   +---build
+¦   ¦   ¦   ¦   +---help
+¦   ¦   ¦   ¦   +---init
+¦   ¦   ¦   +---css
+¦   ¦   ¦   +---lib
+¦   ¦   ¦   +---postcss-plugins
+¦   ¦   ¦   ¦   +---nesting
+¦   ¦   ¦   +---public
+¦   ¦   ¦   +---util
+¦   ¦   ¦   +---value-parser
+¦   ¦   +---nesting
+¦   ¦   +---node_modules
+¦   ¦   ¦   +---.bin
+¦   ¦   ¦   +---jiti
+¦   ¦   ¦       +---bin
+¦   ¦   ¦       +---dist
+¦   ¦   ¦       ¦   +---plugins
+¦   ¦   ¦       +---lib
+¦   ¦   +---peers
+¦   ¦   +---scripts
+¦   ¦   +---src
+¦   ¦   ¦   +---cli
+¦   ¦   ¦   ¦   +---build
+¦   ¦   ¦   ¦   +---help
+¦   ¦   ¦   ¦   +---init
+¦   ¦   ¦   +---css
+¦   ¦   ¦   +---lib
+¦   ¦   ¦   +---postcss-plugins
+¦   ¦   ¦   ¦   +---nesting
+¦   ¦   ¦   +---public
+¦   ¦   ¦   +---util
+¦   ¦   ¦   +---value-parser
+¦   ¦   +---stubs
+¦   ¦   +---types
+¦   ¦       +---generated
+¦   +---tapable
+¦   ¦   +---lib
+¦   +---terser
+¦   ¦   +---bin
+¦   ¦   +---dist
+¦   ¦   +---lib
+¦   ¦   ¦   +---compress
+¦   ¦   ¦   +---utils
+¦   ¦   +---node_modules
+¦   ¦   ¦   +---.bin
+¦   ¦   ¦   +---acorn
+¦   ¦   ¦   ¦   +---bin
+¦   ¦   ¦   ¦   +---dist
+¦   ¦   ¦   +---commander
+¦   ¦   ¦       +---typings
+¦   ¦   +---tools
+¦   +---terser-webpack-plugin
+¦   ¦   +---dist
+¦   ¦   +---types
+¦   +---thenify
+¦   +---thenify-all
+¦   +---through2
+¦   +---tinycolor2
+¦   ¦   +---cjs
+¦   ¦   +---dist
+¦   ¦   +---esm
+¦   +---tinyglobby
+¦   ¦   +---dist
+¦   +---tinyqueue
+¦   +---to-float32
+¦   +---to-px
+¦   ¦   +---test
+¦   +---to-regex-range
+¦   +---topojson-client
+¦   ¦   +---bin
+¦   ¦   +---dist
+¦   ¦   +---node_modules
+¦   ¦   ¦   +---commander
+¦   ¦   ¦       +---typings
+¦   ¦   +---src
+¦   +---ts-interface-checker
+¦   ¦   +---dist
+¦   +---tslib
+¦   ¦   +---modules
+¦   +---type
+¦   ¦   +---array
+¦   ¦   +---array-length
+¦   ¦   +---array-like
+¦   ¦   +---big-int
+¦   ¦   +---constructor
+¦   ¦   +---date
+¦   ¦   +---docs
+¦   ¦   +---error
+¦   ¦   +---finite
+¦   ¦   +---function
+¦   ¦   +---integer
+¦   ¦   +---iterable
+¦   ¦   +---lib
+¦   ¦   ¦   +---ensure
+¦   ¦   +---map
+¦   ¦   +---natural-number
+¦   ¦   +---number
+¦   ¦   +---object
+¦   ¦   +---plain-function
+¦   ¦   +---plain-object
+¦   ¦   +---promise
+¦   ¦   +---prototype
+¦   ¦   +---reg-exp
+¦   ¦   +---safe-integer
+¦   ¦   +---set
+¦   ¦   +---string
+¦   ¦   +---thenable
+¦   ¦   +---time-value
+¦   ¦   +---ts-types
+¦   ¦   ¦   +---array
+¦   ¦   ¦   +---array-length
+¦   ¦   ¦   +---array-like
+¦   ¦   ¦   +---big-int
+¦   ¦   ¦   +---constructor
+¦   ¦   ¦   +---date
+¦   ¦   ¦   +---error
+¦   ¦   ¦   +---finite
+¦   ¦   ¦   +---function
+¦   ¦   ¦   +---integer
+¦   ¦   ¦   +---iterable
+¦   ¦   ¦   +---map
+¦   ¦   ¦   +---natural-number
+¦   ¦   ¦   +---number
+¦   ¦   ¦   +---object
+¦   ¦   ¦   +---plain-function
+¦   ¦   ¦   +---plain-object
+¦   ¦   ¦   +---promise
+¦   ¦   ¦   +---prototype
+¦   ¦   ¦   +---reg-exp
+¦   ¦   ¦   +---safe-integer
+¦   ¦   ¦   +---set
+¦   ¦   ¦   +---string
+¦   ¦   ¦   +---thenable
+¦   ¦   ¦   +---time-value
+¦   ¦   ¦   +---value
+¦   ¦   +---value
+¦   +---typedarray
+¦   ¦   +---example
+¦   ¦   +---test
+¦   ¦       +---server
+¦   +---typedarray-pool
+¦   ¦   +---test
+¦   +---typescript
+¦   ¦   +---bin
+¦   ¦   +---lib
+¦   ¦       +---cs
+¦   ¦       +---de
+¦   ¦       +---es
+¦   ¦       +---fr
+¦   ¦       +---it
+¦   ¦       +---ja
+¦   ¦       +---ko
+¦   ¦       +---pl
+¦   ¦       +---pt-br
+¦   ¦       +---ru
+¦   ¦       +---tr
+¦   ¦       +---zh-cn
+¦   ¦       +---zh-tw
+¦   +---undici-types
+¦   +---unquote
+¦   +---update-browserslist-db
+¦   +---update-diff
+¦   +---util-deprecate
+¦   +---vite
+¦   ¦   +---bin
+¦   ¦   +---dist
+¦   ¦   ¦   +---client
+¦   ¦   ¦   +---node
+¦   ¦   ¦   ¦   +---chunks
+¦   ¦   ¦   +---node-cjs
+¦   ¦   +---misc
+¦   ¦   +---types
+¦   ¦       +---internal
+¦   +---vt-pbf
+¦   ¦   +---lib
+¦   +---watchpack
+¦   ¦   +---lib
+¦   +---weak-map
+¦   +---webgl-context
+¦   +---webpack
+¦   ¦   +---bin
+¦   ¦   +---hot
+¦   ¦   +---lib
+¦   ¦   ¦   +---asset
+¦   ¦   ¦   +---async-modules
+¦   ¦   ¦   +---cache
+¦   ¦   ¦   +---config
+¦   ¦   ¦   +---container
+¦   ¦   ¦   +---css
+¦   ¦   ¦   +---debug
+¦   ¦   ¦   +---dependencies
+¦   ¦   ¦   +---electron
+¦   ¦   ¦   +---errors
+¦   ¦   ¦   +---esm
+¦   ¦   ¦   +---hmr
+¦   ¦   ¦   +---ids
+¦   ¦   ¦   +---javascript
+¦   ¦   ¦   +---json
+¦   ¦   ¦   +---library
+¦   ¦   ¦   +---logging
+¦   ¦   ¦   +---node
+¦   ¦   ¦   +---optimize
+¦   ¦   ¦   +---performance
+¦   ¦   ¦   +---prefetch
+¦   ¦   ¦   +---rules
+¦   ¦   ¦   +---runtime
+¦   ¦   ¦   +---schemes
+¦   ¦   ¦   +---serialization
+¦   ¦   ¦   +---sharing
+¦   ¦   ¦   +---stats
+¦   ¦   ¦   +---util
+¦   ¦   ¦   ¦   +---hash
+¦   ¦   ¦   +---wasm
+¦   ¦   ¦   +---wasm-async
+¦   ¦   ¦   +---wasm-sync
+¦   ¦   ¦   +---web
+¦   ¦   ¦   +---webworker
+¦   ¦   +---node_modules
+¦   ¦   ¦   +---.bin
+¦   ¦   ¦   +---acorn
+¦   ¦   ¦       +---bin
+¦   ¦   ¦       +---dist
+¦   ¦   +---schemas
+¦   ¦       +---plugins
+¦   ¦           +---asset
+¦   ¦           +---container
+¦   ¦           +---css
+¦   ¦           +---debug
+¦   ¦           +---ids
+¦   ¦           +---optimize
+¦   ¦           +---schemes
+¦   ¦           +---sharing
+¦   +---webpack-sources
+¦   ¦   +---lib
+¦   ¦       +---helpers
+¦   +---which
+¦   ¦   +---bin
+¦   +---world-calendars
+¦   ¦   +---dist
+¦   ¦       +---calendars
+¦   ¦       +---regional
+¦   +---wrap-ansi
+¦   +---wrap-ansi-cjs
+¦   ¦   +---node_modules
+¦   ¦       +---ansi-regex
+¦   ¦       +---ansi-styles
+¦   ¦       +---emoji-regex
+¦   ¦       ¦   +---es2015
+¦   ¦       +---string-width
+¦   ¦       +---strip-ansi
+¦   +---wrappy
+¦   +---xtend
+¦   +---yallist
+¦   +---yaml
+¦       +---browser
+¦       ¦   +---dist
+¦       ¦       +---compose
+¦       ¦       +---doc
+¦       ¦       +---nodes
+¦       ¦       +---parse
+¦       ¦       +---schema
+¦       ¦       ¦   +---common
+¦       ¦       ¦   +---core
+¦       ¦       ¦   +---json
+¦       ¦       ¦   +---yaml-1.1
+¦       ¦       +---stringify
+¦       +---dist
+¦           +---compose
+¦           +---doc
+¦           +---nodes
+¦           +---parse
+¦           +---schema
+¦           ¦   +---common
+¦           ¦   +---core
+¦           ¦   +---json
+¦           ¦   +---yaml-1.1
+¦           +---stringify
++---public
+¦   +---flags
++---results
++---src
+¦   +---assets
+¦   +---components
+¦   +---contexts
+¦       +---saves
++---src-tauri
+    +---capabilities
+    +---gen
+    ¦   +---schemas
+    +---icons
+    +---src
+    +---target
+        +---debug
+            +---.fingerprint
+            ¦   +---adler2-7449e868672588b4
+            ¦   +---aho-corasick-b66cdf5c505485c4
+            ¦   +---aho-corasick-c5efd55cd6becb7b
+            ¦   +---aho-corasick-c9d80cd1c2c45249
+            ¦   +---alloc-no-stdlib-3b02cb65baf29aa9
+            ¦   +---alloc-no-stdlib-7c09f2f9336b1775
+            ¦   +---alloc-no-stdlib-898d8bbadf82693e
+            ¦   +---alloc-stdlib-6cf1274e695769cf
+            ¦   +---alloc-stdlib-99a0c29f6fbeee19
+            ¦   +---alloc-stdlib-c73d438c55d7873a
+            ¦   +---anyhow-1637c556491076f6
+            ¦   +---anyhow-1c601e0483772b63
+            ¦   +---anyhow-7d7dd0ce4993f3cf
+            ¦   +---anyhow-b53cea73e491ad83
+            ¦   +---anyhow-cf3c20f70e89be43
+            ¦   +---app-2400267ac5a488f4
+            ¦   +---app-4c63050f9f7e70f2
+            ¦   +---app-4e7dc2d6835c5d74
+            ¦   +---app-6585e21a9aca3676
+            ¦   +---app-76a853c2782d7b32
+            ¦   +---app-7b7e8b7b19a32781
+            ¦   +---app-a105cab3c1b4c625
+            ¦   +---app-bf5f6da2c1d3bbbc
+            ¦   +---app-d2e7f2d69d6c9096
+            ¦   +---app-e34c98ee8951624f
+            ¦   +---app-e42bb93399b609dd
+            ¦   +---autocfg-ba5ee7d8b85f634f
+            ¦   +---base64-8a07f4b28c3a61c6
+            ¦   +---bitflags-34db651772d25272
+            ¦   +---bitflags-6a823f563678e388
+            ¦   +---bitflags-d15393d08e2f31fc
+            ¦   +---bitflags-e7ede7f1aa7664ae
+            ¦   +---bitflags-e8f2ab0d1d9fe9f7
+            ¦   +---block-buffer-e28c37018a32e06a
+            ¦   +---brotli-6df023bdd6a05351
+            ¦   +---brotli-ad44138840ddf89e
+            ¦   +---brotli-ce3a917201e99a30
+            ¦   +---brotli-decompressor-a2410f38f1be2b9b
+            ¦   +---brotli-decompressor-e3563f4a6e6cf9f5
+            ¦   +---brotli-decompressor-e3ad9db3eadfc89e
+            ¦   +---byteorder-10da938f58cf8164
+            ¦   +---byteorder-6964839b8b19be1a
+            ¦   +---byteorder-85dff47a724664b8
+            ¦   +---bytes-38141f3f5de6aeb3
+            ¦   +---bytes-a7bd6d68ba5d75f0
+            ¦   +---bytes-d18dcb52e317328a
+            ¦   +---camino-1f42e42fb414156d
+            ¦   +---camino-b51df652bf17afdd
+            ¦   +---camino-fc4298ba78d0a493
+            ¦   +---cargo-platform-6600375196ea5841
+            ¦   +---cargo_metadata-306ef78deb4942e1
+            ¦   +---cargo_metadata-fc2067ac329894e7
+            ¦   +---cargo_toml-9ad39230fe1c0b01
+            ¦   +---cargo_toml-a35c3069ac250259
+            ¦   +---cc-14505a8745e47b55
+            ¦   +---cfb-7e365bb89de80f79
+            ¦   +---cfb-d269d9a185c0e375
+            ¦   +---cfb-e11c545328716276
+            ¦   +---cfb-e41b8631dfa5aae2
+            ¦   +---cfg-if-4ffa2fbf4ef52033
+            ¦   +---cfg-if-885ced7a34e6dac7
+            ¦   +---cfg-if-e7014ee817a05abd
+            ¦   +---cfg_aliases-85ec491f704a2d6b
+            ¦   +---convert_case-ffa9445cd589c980
+            ¦   +---cookie-65e20b4e9f308fb1
+            ¦   +---cookie-84aad316634926e2
+            ¦   +---cookie-bc683a131b4ddbd3
+            ¦   +---cookie-c09270cf5e6517ad
+            ¦   +---cpufeatures-ecadcb609a73bfed
+            ¦   +---crc32fast-31a89b07227b948e
+            ¦   +---crc32fast-38522adc696c8c22
+            ¦   +---crossbeam-channel-11212871ae39e9ae
+            ¦   +---crossbeam-channel-577fbc12f9fa2638
+            ¦   +---crossbeam-utils-2915f5b5ef2a676d
+            ¦   +---crossbeam-utils-52f34570ef26a1e2
+            ¦   +---crossbeam-utils-836d87636bd098b4
+            ¦   +---crossbeam-utils-ae766ae5f495405d
+            ¦   +---crypto-common-160b0070b8ef8b0e
+            ¦   +---cssparser-245648d4f6282168
+            ¦   +---cssparser-3ff839be4ca496fc
+            ¦   +---cssparser-577dc2c64e1ed75b
+            ¦   +---cssparser-906db3950eccc132
+            ¦   +---cssparser-c2f3790229370681
+            ¦   +---cssparser-macros-08a42c1b71575fb6
+            ¦   +---ctor-b77a79c2e1d62ae2
+            ¦   +---darling-13a3425848abb879
+            ¦   +---darling-815446db9e4a0970
+            ¦   +---darling_core-e976e056bf364de0
+            ¦   +---darling_core-eebe47c25cbe8abd
+            ¦   +---darling_macro-b7d55b9104831019
+            ¦   +---darling_macro-e4d1368286b3ae0c
+            ¦   +---deranged-29176bfb3c153949
+            ¦   +---deranged-54ae12c041dd16a6
+            ¦   +---derive_more-1028f4771d5b07e1
+            ¦   +---derive_more-22f9058e8e79a379
+            ¦   +---digest-400feabaaaf06ca8
+            ¦   +---dirs-77837ab09217a1db
+            ¦   +---dirs-97ce6e9b91252de2
+            ¦   +---dirs-9c87a6faf17d92d8
+            ¦   +---dirs-a2972def99ebe741
+            ¦   +---dirs-sys-02a9d15d94094d18
+            ¦   +---dirs-sys-0d4bbc24a0551af4
+            ¦   +---dirs-sys-1d36716bbbc9bb2b
+            ¦   +---dirs-sys-20b500c801c3645c
+            ¦   +---displaydoc-5d13d23507d6d368
+            ¦   +---dpi-1917e138d9ba4b48
+            ¦   +---dpi-ce759938cf5c6ad1
+            ¦   +---dtoa-20741e5466332182
+            ¦   +---dtoa-4843f453037243c1
+            ¦   +---dtoa-b242e5bebf178c31
+            ¦   +---dtoa-short-357e87365f190ba4
+            ¦   +---dtoa-short-7fd0644cef6cfb30
+            ¦   +---dtoa-short-bc2bfbb4cac568b9
+            ¦   +---dunce-4e54d132940e75f1
+            ¦   +---dunce-ab4f001e965a89f8
+            ¦   +---dunce-cde01fce8a9be1d0
+            ¦   +---dyn-clone-cba93cd0e465feaa
+            ¦   +---embed-resource-600883eafee7dec9
+            ¦   +---embed-resource-c6bdfa70da23f6d0
+            ¦   +---equivalent-403ba7e7a5718dd7
+            ¦   +---equivalent-4213c9887e5994c1
+            ¦   +---equivalent-c413381703bf56a9
+            ¦   +---erased-serde-1662de4ac03c0532
+            ¦   +---erased-serde-3c357d3968c0b818
+            ¦   +---erased-serde-5c7bdd95f4b31f49
+            ¦   +---erased-serde-f5cba1fc6dca5ac1
+            ¦   +---fdeflate-6c0b5ad5e8acb4d4
+            ¦   +---flate2-7c76cac28e90e5a1
+            ¦   +---flate2-ef58fabdc7ff61c0
+            ¦   +---fnv-0a7672a0c9d649bd
+            ¦   +---fnv-d6becae5f753067f
+            ¦   +---fnv-f7b090f3c8d67a07
+            ¦   +---form_urlencoded-130c8eefe8412f78
+            ¦   +---form_urlencoded-21cd91a47f77bc39
+            ¦   +---form_urlencoded-6d1a5e8c6efb63c8
+            ¦   +---form_urlencoded-75675823ffb806c4
+            ¦   +---futf-12977e35356c7308
+            ¦   +---futf-7f9567e45575d040
+            ¦   +---futf-e8dae120705755ed
+            ¦   +---futures-core-b898d494a7b28380
+            ¦   +---futures-core-e5820c09c28281c5
+            ¦   +---futures-macro-fe53b4af445584cb
+            ¦   +---futures-task-6e072c9b0a67ece5
+            ¦   +---futures-task-ba72005275e252c2
+            ¦   +---futures-util-8a8fc91890c1ed41
+            ¦   +---futures-util-f9fe98969fdf7c15
+            ¦   +---fxhash-18a7aa8d883e798d
+            ¦   +---fxhash-45649aa098929e95
+            ¦   +---fxhash-48dd0c9a82e79a1b
+            ¦   +---generic-array-5d37241524d72078
+            ¦   +---generic-array-da0fa3a3c1d67262
+            ¦   +---generic-array-f7c00ba5dc107a3f
+            ¦   +---getrandom-01bd1704829eb7ac
+            ¦   +---getrandom-22d05919b60adc02
+            ¦   +---getrandom-4d2f9d64b50f574a
+            ¦   +---getrandom-603da39fde8d8f16
+            ¦   +---getrandom-67b38228a8923159
+            ¦   +---getrandom-6de850a1486efb65
+            ¦   +---getrandom-7227783ca4181770
+            ¦   +---getrandom-7b0b7e5edfe26584
+            ¦   +---getrandom-7b9026f3617b8caa
+            ¦   +---getrandom-7e336432d48db329
+            ¦   +---getrandom-b1e5eab76037bcbf
+            ¦   +---getrandom-cf4934eaac1d9e0b
+            ¦   +---glob-603e7c1e77736211
+            ¦   +---glob-c205cfe5d636b766
+            ¦   +---glob-d3270c7153df7727
+            ¦   +---hashbrown-0c66a85c4fc0f830
+            ¦   +---hashbrown-19b9ec97b7d20cf4
+            ¦   +---hashbrown-34763bb12cb61093
+            ¦   +---hashbrown-430fd9b5459dd7cc
+            ¦   +---hashbrown-69fd523d2cce3f60
+            ¦   +---hashbrown-d32aba31d5edcf90
+            ¦   +---heck-46f4a865a7370821
+            ¦   +---heck-8aff29f1f519f90d
+            ¦   +---heck-ad6cb38f0d35f428
+            ¦   +---html5ever-3c5cee7a927a0998
+            ¦   +---html5ever-9c08a543d8f1761e
+            ¦   +---html5ever-bf899283ce2a3ede
+            ¦   +---html5ever-cf4972cf1fe68a75
+            ¦   +---html5ever-e3d39bd902163c66
+            ¦   +---html5ever-f4473f227c8495dd
+            ¦   +---http-7707ede33abffdf1
+            ¦   +---http-78c62bdf4dfbc253
+            ¦   +---http-88da78f5641fda11
+            ¦   +---ico-ab182942a249f01a
+            ¦   +---ico-b4e89e724f5b0821
+            ¦   +---icu_collections-6acdd6cf22e9ef1b
+            ¦   +---icu_collections-af300dd96239a322
+            ¦   +---icu_collections-be43b54ba8d2e307
+            ¦   +---icu_locid-09171a6c6cd0efc7
+            ¦   +---icu_locid-3f94a6d08669fcfb
+            ¦   +---icu_locid-ebed01f21a20751d
+            ¦   +---icu_locid_transform-75254f437ccfb4a6
+            ¦   +---icu_locid_transform-789b04eb38555ac6
+            ¦   +---icu_locid_transform-84cf7b560da02f38
+            ¦   +---icu_locid_transform_data-4097bc87dcd07b8a
+            ¦   +---icu_locid_transform_data-75bfc866c1cd1a94
+            ¦   +---icu_locid_transform_data-a7d544f0f7ac77ef
+            ¦   +---icu_locid_transform_data-b4d9a1c6ba43c67b
+            ¦   +---icu_locid_transform_data-bd8826d23cad0502
+            ¦   +---icu_normalizer-2d9cda1c3e573742
+            ¦   +---icu_normalizer-811df548bd819fbb
+            ¦   +---icu_normalizer-c735433dd12dca35
+            ¦   +---icu_normalizer_data-4c31efff8cd8d332
+            ¦   +---icu_normalizer_data-705f8e1a70db7855
+            ¦   +---icu_normalizer_data-9e93413a3ec1a518
+            ¦   +---icu_normalizer_data-d0c6761049e38434
+            ¦   +---icu_normalizer_data-d7a4e2f493f3066e
+            ¦   +---icu_properties-53063de36491b1d9
+            ¦   +---icu_properties-8ba712590a44433d
+            ¦   +---icu_properties-f8082c8451374b5f
+            ¦   +---icu_properties_data-451b2300467f79fc
+            ¦   +---icu_properties_data-6fc7fe6f926012cb
+            ¦   +---icu_properties_data-7b270c85e45d6e1a
+            ¦   +---icu_properties_data-9e8ab37fdae94f1f
+            ¦   +---icu_properties_data-d6e1792cd32f3cd4
+            ¦   +---icu_provider-38949892decee4df
+            ¦   +---icu_provider-6d61696ad273e341
+            ¦   +---icu_provider-96a420d40d2276e3
+            ¦   +---icu_provider_macros-e94ac9d67725de0c
+            ¦   +---ident_case-e4376db720288c8a
+            ¦   +---idna-439adb942c54747b
+            ¦   +---idna-bb8b12de9206e225
+            ¦   +---idna-d0129177a328a439
+            ¦   +---idna_adapter-36482221696f7701
+            ¦   +---idna_adapter-4b7e7acd3986b05f
+            ¦   +---idna_adapter-fb24e8822a768950
+            ¦   +---indexmap-04884ba7df9d1e06
+            ¦   +---indexmap-2769c497f6fc107d
+            ¦   +---indexmap-438b65b6a9d6a7f5
+            ¦   +---indexmap-4c1eda2aa4a3a4df
+            ¦   +---indexmap-4fde09b1a4e32048
+            ¦   +---indexmap-55bdcc8d2468b5e5
+            ¦   +---indexmap-5ddbcaad8ee24f20
+            ¦   +---indexmap-907ae9d9e9fa547e
+            ¦   +---indexmap-91f5a404ccfb1b7a
+            ¦   +---indexmap-b68a0db37ef7e69c
+            ¦   +---indexmap-df3e5eaed74a3bba
+            ¦   +---infer-05b0084532d14d73
+            ¦   +---infer-5057a5461dbec588
+            ¦   +---infer-a8051e369a098b42
+            ¦   +---infer-b0633acf73dbea54
+            ¦   +---itoa-06b1d72093d037ce
+            ¦   +---itoa-0707f7a92355706b
+            ¦   +---itoa-2b3c2135f9a5f235
+            ¦   +---itoa-af3a056d0d5c22b3
+            ¦   +---itoa-dcec55949eecdc35
+            ¦   +---itoa-f60da3e128e97c5e
+            ¦   +---json-patch-0bcd5097d7551697
+            ¦   +---json-patch-59f077fc2e02a040
+            ¦   +---json-patch-d055cab4b14bee47
+            ¦   +---json-patch-f4c3e296775e35bb
+            ¦   +---jsonptr-15ad6ab5272f4521
+            ¦   +---jsonptr-5fb088410a19a963
+            ¦   +---jsonptr-7e7dcbd3c5290d6a
+            ¦   +---jsonptr-9a89d8fbf0bde84b
+            ¦   +---keyboard-types-15c159ed970100de
+            ¦   +---keyboard-types-54c79738fa341f22
+            ¦   +---kuchikiki-20a700f252d7e0cf
+            ¦   +---kuchikiki-44289def7b88d914
+            ¦   +---kuchikiki-6edb90be66676c66
+            ¦   +---kuchikiki-77ddae56190451c3
+            ¦   +---kuchikiki-7d395e0fe6dc3ec6
+            ¦   +---kuchikiki-dea25ba7d87e5953
+            ¦   +---lazy_static-1b9e82a24f68cdc4
+            ¦   +---lazy_static-c28c0e13093a4168
+            ¦   +---libc-0c82a85a0aaaa622
+            ¦   +---libc-0d4534d762716280
+            ¦   +---libc-28c9dc264d85d9c6
+            ¦   +---libc-480ccc4107e8a74f
+            ¦   +---libc-8e49c3ac649c7b9b
+            ¦   +---litemap-0e394dde9dd5561e
+            ¦   +---litemap-2dcafd48eb31c099
+            ¦   +---litemap-2ec48b88c55fda8d
+            ¦   +---lock_api-119ef4e2af9ec58b
+            ¦   +---lock_api-13a157103e8a92b4
+            ¦   +---lock_api-4e65fcc1d74fbc48
+            ¦   +---lock_api-9a26a4de427051ad
+            ¦   +---lock_api-d2fd67df1cf0bc8a
+            ¦   +---log-17408f5d9644b296
+            ¦   +---log-9cf75fce2750dd40
+            ¦   +---log-c716ebbcc4f807c2
+            ¦   +---mac-572bba28f7ca7ae4
+            ¦   +---mac-91df2fe502572c9f
+            ¦   +---mac-b80d61d0b20dcce7
+            ¦   +---markup5ever-0c8e8265413c3a80
+            ¦   +---markup5ever-32fd4bfd11a6382a
+            ¦   +---markup5ever-4444345866c302d6
+            ¦   +---markup5ever-48ce54582ce98c29
+            ¦   +---markup5ever-98b56b0a51e52e43
+            ¦   +---markup5ever-b1f4a40e990c645c
+            ¦   +---markup5ever-e21cb1da64e84574
+            ¦   +---markup5ever-ec0cf79a2364bb2f
+            ¦   +---matches-1debe877e101b799
+            ¦   +---matches-4da4acad2802c96d
+            ¦   +---matches-f00f6638b27106ac
+            ¦   +---memchr-69a645133025d9cc
+            ¦   +---memchr-d0055077279ca6ea
+            ¦   +---memchr-e78b958a0f093286
+            ¦   +---mime-136eeb42bb314931
+            ¦   +---mime-7272976224991d03
+            ¦   +---miniz_oxide-2b8bde7438b543f8
+            ¦   +---muda-a2c0cf4c2bcd6690
+            ¦   +---muda-e7c67ac40142df39
+            ¦   +---new_debug_unreachable-22d3b33d1f07a0ef
+            ¦   +---new_debug_unreachable-4afc1f2c970e8ef9
+            ¦   +---new_debug_unreachable-cb906420d9772d9b
+            ¦   +---nodrop-01c86aeed30b1151
+            ¦   +---nodrop-2c7cb994402fcf1d
+            ¦   +---nodrop-3baa0fa8aa9651ff
+            ¦   +---num-conv-12bb86b13d189db7
+            ¦   +---num-conv-aef5fdf2015cd21e
+            ¦   +---num-conv-c5c790da7bf39070
+            ¦   +---once_cell-749b83ebf9ed78a6
+            ¦   +---once_cell-8a67234e6a5df7e4
+            ¦   +---open-1da84c03dd410ca7
+            ¦   +---open-ad768cafa86c888b
+            ¦   +---option-ext-47f695b2156552fe
+            ¦   +---option-ext-6c0076da5ad5e227
+            ¦   +---option-ext-e6e9a2db807160e4
+            ¦   +---parking_lot-01960a4162d4d56f
+            ¦   +---parking_lot-23d794a0a8212800
+            ¦   +---parking_lot-f4fa5ac3cbfc700d
+            ¦   +---parking_lot_core-0b924f30bf9461e5
+            ¦   +---parking_lot_core-208d0614abf25f2d
+            ¦   +---parking_lot_core-5a2d227f86ec4fb8
+            ¦   +---parking_lot_core-83220260dc85e1c4
+            ¦   +---parking_lot_core-9295a605abf67adb
+            ¦   +---percent-encoding-4c28601bc51ff47e
+            ¦   +---percent-encoding-637e59c038477292
+            ¦   +---percent-encoding-9a5c6241569f705c
+            ¦   +---phf-16e27e03a4f30143
+            ¦   +---phf-3c76a794a2d211c8
+            ¦   +---phf-4abe6bd460fd1bbf
+            ¦   +---phf-66358ab6e81d1338
+            ¦   +---phf-762fe3f670470ad1
+            ¦   +---phf-b0860ae2a8f0eb74
+            ¦   +---phf-b9af95d237b72713
+            ¦   +---phf-df1383b23748ecbd
+            ¦   +---phf-e94ee572c52475f5
+            ¦   +---phf-eb17c6f8e521c57a
+            ¦   +---phf_codegen-16744c3fd5cdbe04
+            ¦   +---phf_codegen-857acafdc40390c6
+            ¦   +---phf_codegen-b8dc7aa1b20e915c
+            ¦   +---phf_codegen-c37d92a6c9d5d29c
+            ¦   +---phf_generator-11e8b9ffe81ea146
+            ¦   +---phf_generator-33a8afe5acd5255e
+            ¦   +---phf_generator-6b932a816cb5e948
+            ¦   +---phf_generator-7a5d54e049d0ede1
+            ¦   +---phf_generator-dfbb85427592b62c
+            ¦   +---phf_generator-fa7c564d756b6bc7
+            ¦   +---phf_macros-280579207f13a96d
+            ¦   +---phf_macros-28970ff56e396451
+            ¦   +---phf_macros-2e6164c1ca73f208
+            ¦   +---phf_macros-76274648e7251213
+            ¦   +---phf_shared-06087baa44a20ec8
+            ¦   +---phf_shared-48e4c99710294232
+            ¦   +---phf_shared-61673b44f89a9d94
+            ¦   +---phf_shared-753fcce526f8b9e5
+            ¦   +---phf_shared-a159569409893a5a
+            ¦   +---phf_shared-a319fc899b21f51a
+            ¦   +---phf_shared-a33a4ba0643e467e
+            ¦   +---phf_shared-ab2c96c3e0491ee6
+            ¦   +---phf_shared-b25af8ec64c4dd9a
+            ¦   +---phf_shared-c3e14428d7d14012
+            ¦   +---pin-project-lite-7484e2466bb0ce7a
+            ¦   +---pin-project-lite-cd067cae679cc629
+            ¦   +---pin-utils-04a44fead13ec74b
+            ¦   +---pin-utils-b6e2238d34ce41c4
+            ¦   +---png-3389c509d11301d5
+            ¦   +---png-67eb92d794f3d0b7
+            ¦   +---powerfmt-b74765ee30a01c03
+            ¦   +---powerfmt-d88dac87313a90a3
+            ¦   +---ppv-lite86-46f5ebba7631410a
+            ¦   +---precomputed-hash-1f399ffdb10668fd
+            ¦   +---precomputed-hash-209fca21810f986b
+            ¦   +---precomputed-hash-bf2dd2f28690ebfb
+            ¦   +---proc-macro-hack-96697eda46054250
+            ¦   +---proc-macro-hack-fa269454effc8944
+            ¦   +---proc-macro-hack-fac53b41d2378f6b
+            ¦   +---proc-macro2-3a3ce87370a3e0ce
+            ¦   +---proc-macro2-9c2600b01018d993
+            ¦   +---proc-macro2-ae2daf3fd4822f3e
+            ¦   +---quote-1090f4776d77f528
+            ¦   +---rand-27094b9c9799bf2b
+            ¦   +---rand-31d1175cf93bd977
+            ¦   +---rand-4cf9059aae797fe8
+            ¦   +---rand-ad9f0223043c3277
+            ¦   +---rand_chacha-86e3ea5a2ddffd6a
+            ¦   +---rand_chacha-ab4fcd7f169909b2
+            ¦   +---rand_chacha-dd1987d7cdfb1f39
+            ¦   +---rand_chacha-ed79d426d96d324f
+            ¦   +---rand_core-08e6df0f589f843e
+            ¦   +---rand_core-2ea2358024a7bc5e
+            ¦   +---rand_core-79053b8b23b249d1
+            ¦   +---rand_core-96a93908fef37d15
+            ¦   +---rand_pcg-c0664030c30389b8
+            ¦   +---rand_pcg-c1152250665bc71c
+            ¦   +---raw-window-handle-e8c638c76537fe26
+            ¦   +---raw-window-handle-ff2a100652f34cee
+            ¦   +---regex-4a6cc5b49b60f7cb
+            ¦   +---regex-ad4182f1ee2bb2c8
+            ¦   +---regex-automata-30eef4c8ef75376f
+            ¦   +---regex-automata-be2152bc349f18aa
+            ¦   +---regex-automata-c85b1e74a40167d9
+            ¦   +---regex-c63556f54eb5dd70
+            ¦   +---regex-syntax-3804368148aaec6a
+            ¦   +---regex-syntax-83ca190aeaceb1df
+            ¦   +---regex-syntax-a7cf797c5f21a08f
+            ¦   +---rustc_version-054fc2666b94ee87
+            ¦   +---ryu-46c83447c39a20a3
+            ¦   +---ryu-cd11dc58f3c65c1f
+            ¦   +---ryu-fc162febde466627
+            ¦   +---same-file-137e79866dab6089
+            ¦   +---same-file-14346142249cd6b8
+            ¦   +---same-file-19c01a7cf30164f0
+            ¦   +---same-file-ce9e698a39e38e54
+            ¦   +---schemars-0c9c6f92ea7d3f44
+            ¦   +---schemars-5dbb942307511abe
+            ¦   +---schemars-9bf831aa1cdea159
+            ¦   +---schemars-dd2da27c3d0b8cd2
+            ¦   +---schemars_derive-32e6af59324b2785
+            ¦   +---scopeguard-76a964cfd86cc7aa
+            ¦   +---scopeguard-7e452dbf10560bbb
+            ¦   +---scopeguard-83d0e62ed475a8fa
+            ¦   +---selectors-1004861ea9a91480
+            ¦   +---selectors-1c9dfb13933cd323
+            ¦   +---selectors-5be95d6f90948d59
+            ¦   +---selectors-6d51db788c88fff6
+            ¦   +---selectors-7cdc97374b8e35ef
+            ¦   +---selectors-82b42385bace7964
+            ¦   +---selectors-be5e38089a45eb4c
+            ¦   +---selectors-e2450c06b0e4a977
+            ¦   +---semver-0077db6ee1c9d2aa
+            ¦   +---semver-47925e7c43d485ad
+            ¦   +---semver-5e245c358dc587d0
+            ¦   +---semver-62f2e01527362871
+            ¦   +---semver-68ebe31b77fadc59
+            ¦   +---semver-83e4adb7e11c22c5
+            ¦   +---semver-d75cb4018c57a477
+            ¦   +---serde-00bf5e63f8cb3bc2
+            ¦   +---serde-01d22dffb2f0f420
+            ¦   +---serde-29274b67f5efbeb1
+            ¦   +---serde-a4b52885f22edf1a
+            ¦   +---serde-aa7a417492e75c30
+            ¦   +---serde-d4ff44a625c2f4c4
+            ¦   +---serde-ec1dc6d68ca5eded
+            ¦   +---serde-untagged-067e872d10ad63c2
+            ¦   +---serde-untagged-130d0ab358fb3f3e
+            ¦   +---serde-untagged-c1a3a5f2a2a6bf79
+            ¦   +---serde-untagged-cf8d190aa9bad39e
+            ¦   +---serde_derive-942da1ada2f5e1a4
+            ¦   +---serde_derive_internals-0bb7632ded963d4d
+            ¦   +---serde_json-0ddcfd2f3b722ff1
+            ¦   +---serde_json-14d9d33498c60774
+            ¦   +---serde_json-4a10cb2d7b6223f5
+            ¦   +---serde_json-59f450e854f1edae
+            ¦   +---serde_json-6f8ec2e16893b2ab
+            ¦   +---serde_json-bc6c17cdde78e688
+            ¦   +---serde_json-f775e973005b51be
+            ¦   +---serde_json-fe98dba380b3f91d
+            ¦   +---serde_repr-2590aa3fcb3da829
+            ¦   +---serde_spanned-5139ff97157ce9b3
+            ¦   +---serde_spanned-6cf7754208386fad
+            ¦   +---serde_spanned-930a30fee2b4f92a
+            ¦   +---serde_spanned-ffac135293f5831a
+            ¦   +---serde_with-41cc4bc4985d9be4
+            ¦   +---serde_with-6cc1f207176b1e4f
+            ¦   +---serde_with-dc80b69b7855bfe8
+            ¦   +---serde_with-fd527683841ee54d
+            ¦   +---serde_with_macros-8b5999b4c0bcb12d
+            ¦   +---serde_with_macros-c38282295966a283
+            ¦   +---serialize-to-javascript-1b0aef0762c01df2
+            ¦   +---serialize-to-javascript-7394912778135617
+            ¦   +---serialize-to-javascript-impl-4b02dca8f91aa568
+            ¦   +---servo_arc-5c6eb8b36e96a7c5
+            ¦   +---servo_arc-89ed7ee185d400ee
+            ¦   +---servo_arc-aec4e90db7134a88
+            ¦   +---sha2-6365296a22b9cda7
+            ¦   +---sha2-f9b59be2269e1715
+            ¦   +---shlex-f7812d5de40ee760
+            ¦   +---simd-adler32-4ccfcfd652c022d1
+            ¦   +---siphasher-74b9a22c4d43fe48
+            ¦   +---siphasher-7875962161925be9
+            ¦   +---siphasher-8932516ccd747256
+            ¦   +---siphasher-aeb84e20da2ed61c
+            ¦   +---siphasher-c22abea0fbce0dbc
+            ¦   +---siphasher-fdec34ef36335d1d
+            ¦   +---slab-26beab8f5fef4873
+            ¦   +---slab-79e9f1326b07f9da
+            ¦   +---slab-af68c12364def23d
+            ¦   +---slab-daf9e2e7c27fcc81
+            ¦   +---smallvec-4ab0749ba3daefee
+            ¦   +---smallvec-abef0c1c3dc0f172
+            ¦   +---smallvec-ea55074aedea2033
+            ¦   +---softbuffer-255fe9c20b480320
+            ¦   +---softbuffer-3c15d9c9488d6c52
+            ¦   +---softbuffer-8376d3944747bb96
+            ¦   +---softbuffer-a7823912c429715a
+            ¦   +---stable_deref_trait-13c472ba047d1015
+            ¦   +---stable_deref_trait-37007e2ad4577bac
+            ¦   +---stable_deref_trait-37262a002198052c
+            ¦   +---string_cache-56fe868bc021e5a1
+            ¦   +---string_cache-9b1f460ee3f36c66
+            ¦   +---string_cache-c30697cb653f6296
+            ¦   +---string_cache-defdbb761de0b763
+            ¦   +---string_cache_codegen-1a561414d53f70f3
+            ¦   +---string_cache_codegen-e80fdbba45a87c6f
+            ¦   +---strsim-f621e9dd16146f27
+            ¦   +---syn-4c18b15f9938b276
+            ¦   +---syn-8dac8d106a163f4a
+            ¦   +---syn-aa09cab961faeab9
+            ¦   +---syn-b726d49c028938d3
+            ¦   +---synstructure-cfe1a2d88e14baf5
+            ¦   +---tao-1279786eb47da88c
+            ¦   +---tao-69096a5cfede9eab
+            ¦   +---tauri-08a962d2d0507cfe
+            ¦   +---tauri-68ed4979131ca8ef
+            ¦   +---tauri-6c72e39637603a8b
+            ¦   +---tauri-98f5fb4dc4a74e32
+            ¦   +---tauri-b8bc1070a8c89f5a
+            ¦   +---tauri-build-9719c36a12e1c5e1
+            ¦   +---tauri-build-a9b9c24de5e9ab42
+            ¦   +---tauri-build-afbfd9c636b5176b
+            ¦   +---tauri-codegen-2159ae8105598901
+            ¦   +---tauri-codegen-b0a28bb425a9834a
+            ¦   +---tauri-codegen-b47420b90d3126b8
+            ¦   +---tauri-e60aa88683a38afd
+            ¦   +---tauri-e75ac4d09af7c44e
+            ¦   +---tauri-fa1c2a1d82b2d03f
+            ¦   +---tauri-fc5590d3abbd7da4
+            ¦   +---tauri-macros-271bdd1c6740ca94
+            ¦   +---tauri-macros-c7b777261a2ada36
+            ¦   +---tauri-macros-d0a1dfc4c898d8aa
+            ¦   +---tauri-plugin-30f41873113cf288
+            ¦   +---tauri-plugin-7008636b636dc5ec
+            ¦   +---tauri-plugin-c4ea59e716d53915
+            ¦   +---tauri-plugin-opener-087a88c0733e19ad
+            ¦   +---tauri-plugin-opener-1c279581b91de686
+            ¦   +---tauri-plugin-opener-2459f97e91e7c4f3
+            ¦   +---tauri-plugin-opener-2a03e3f05d84df1f
+            ¦   +---tauri-plugin-opener-5bc20d94a6359787
+            ¦   +---tauri-plugin-opener-60431e820ed1b3ec
+            ¦   +---tauri-plugin-opener-ae1e1efe2fe61cd9
+            ¦   +---tauri-plugin-opener-bfb757807a1659e9
+            ¦   +---tauri-plugin-opener-f567b43966fda435
+            ¦   +---tauri-runtime-125914ebfc6cdb0e
+            ¦   +---tauri-runtime-6cc21bb14ed87c0e
+            ¦   +---tauri-runtime-75943df4f0b344f2
+            ¦   +---tauri-runtime-ba99e081945fe0e7
+            ¦   +---tauri-runtime-d0cbb49379dc83c3
+            ¦   +---tauri-runtime-wry-2957c5d9f664063d
+            ¦   +---tauri-runtime-wry-9d246b3b8d86c55a
+            ¦   +---tauri-runtime-wry-ccec82b8d450361a
+            ¦   +---tauri-runtime-wry-d8206410fcee719a
+            ¦   +---tauri-runtime-wry-ef7dc3e3853c67ba
+            ¦   +---tauri-utils-0763c23f27ea8d12
+            ¦   +---tauri-utils-29da74b949e62fe2
+            ¦   +---tauri-utils-5680121b4771b860
+            ¦   +---tauri-utils-b086f78aebe28f75
+            ¦   +---tauri-utils-d1aede85326f23b5
+            ¦   +---tauri-utils-f8baec2fcf3db57f
+            ¦   +---tauri-winres-35820f35dc0cfb75
+            ¦   +---tauri-winres-650eb29af6e7bccc
+            ¦   +---tendril-0329000da5b5106e
+            ¦   +---tendril-b76dc174e80ac590
+            ¦   +---tendril-c76e38575e8f5da1
+            ¦   +---thin-slice-53efdea08ada6157
+            ¦   +---thin-slice-6b95035532f72d9c
+            ¦   +---thin-slice-c7f391e30d7932e0
+            ¦   +---thiserror-05757e8a929b581e
+            ¦   +---thiserror-1654b9df548507c7
+            ¦   +---thiserror-600a6f4826c40cd4
+            ¦   +---thiserror-773dfdab44812044
+            ¦   +---thiserror-834dab7d01ec456b
+            ¦   +---thiserror-9edf390d7057568d
+            ¦   +---thiserror-a4adc56dd3d8d03f
+            ¦   +---thiserror-bb1573f3f82a5eb7
+            ¦   +---thiserror-d5434fa7970f8e4d
+            ¦   +---thiserror-e41546a061920656
+            ¦   +---thiserror-impl-97d1251daeb88a3e
+            ¦   +---thiserror-impl-fad2298e38d34aab
+            ¦   +---time-51e8ac9374ba1521
+            ¦   +---time-core-2ddc42bc423ca99e
+            ¦   +---time-core-620a55a8eeeff024
+            ¦   +---time-core-c204f25d19955f54
+            ¦   +---time-f691a7cbdb644653
+            ¦   +---time-macros-1a920ea886043b36
+            ¦   +---time-macros-a650675d59e6d5c4
+            ¦   +---tinystr-10cbe6dd0b463718
+            ¦   +---tinystr-68d0f7cb8fbe5dae
+            ¦   +---tinystr-ee60e603a422038e
+            ¦   +---tokio-0a42d8724df469aa
+            ¦   +---tokio-6c18711fbf3bda41
+            ¦   +---toml-0598f039e7041e3f
+            ¦   +---toml-499741f6e4805b4b
+            ¦   +---toml-cfd7d4ac79eeffdf
+            ¦   +---toml-d34c52a6ade7b2c0
+            ¦   +---toml_datetime-28df71184e697bf6
+            ¦   +---toml_datetime-29a7fbda91e43870
+            ¦   +---toml_datetime-51ec4585f3c31610
+            ¦   +---toml_datetime-79e9929f7ae48be3
+            ¦   +---toml_edit-0e4992b15aa6525d
+            ¦   +---toml_edit-7442e02db0de27ad
+            ¦   +---toml_edit-ee1e1174163cb5a9
+            ¦   +---toml_edit-efaec12f42bdfb7b
+            ¦   +---typeid-019a7070ab9b171b
+            ¦   +---typeid-4501528fe4c5fbe5
+            ¦   +---typeid-5cc4e087f5d3f011
+            ¦   +---typeid-816437f92dcf5abc
+            ¦   +---typeid-d6fbee1d8432e325
+            ¦   +---typenum-21539e70f5800262
+            ¦   +---typenum-8a6e949b1837fb90
+            ¦   +---typenum-9b4415a7dfd746b4
+            ¦   +---unic-char-property-1d33380f23b0defb
+            ¦   +---unic-char-property-1ef64ddfa13e3ae0
+            ¦   +---unic-char-property-3f92e97cf017f90b
+            ¦   +---unic-char-range-4e4efb7b66753361
+            ¦   +---unic-char-range-80285d9ea0b4d078
+            ¦   +---unic-char-range-dc721b19f50c61fc
+            ¦   +---unic-common-138cecc3a7192468
+            ¦   +---unic-common-aa470fdd8a193a5b
+            ¦   +---unic-common-e0e091273baa013d
+            ¦   +---unic-ucd-ident-27d3ba2b8b6a724d
+            ¦   +---unic-ucd-ident-919342c58d2a0a45
+            ¦   +---unic-ucd-ident-bb663a80958d4159
+            ¦   +---unic-ucd-version-78f21346618f02ae
+            ¦   +---unic-ucd-version-9d55c62223aa8c0a
+            ¦   +---unic-ucd-version-c6ac922ee588b468
+            ¦   +---unicode-ident-65bfde4205dfbe5f
+            ¦   +---unicode-segmentation-15c4884ba41c03db
+            ¦   +---unicode-segmentation-f315a29559cc3526
+            ¦   +---url-2ed54cd00430c74e
+            ¦   +---url-42c9bbe88b29fe24
+            ¦   +---url-83945f7ab8a5a86d
+            ¦   +---url-cf9050bb6b0f56ca
+            ¦   +---urlpattern-3fbd58daa40de2ce
+            ¦   +---urlpattern-6dfaab39c10c6502
+            ¦   +---urlpattern-ab04c796a3d1fa45
+            ¦   +---urlpattern-e1277d047f78c162
+            ¦   +---utf-8-51cd35e967dc020a
+            ¦   +---utf-8-8260d69d3fb974bb
+            ¦   +---utf-8-af98a19d2b6e4978
+            ¦   +---utf16_iter-424082f971243afb
+            ¦   +---utf16_iter-8ce1f0b6fe984522
+            ¦   +---utf16_iter-ac17830b9c6213e9
+            ¦   +---utf8_iter-124e4bb2bf5a7bdd
+            ¦   +---utf8_iter-da01aeb94de1617d
+            ¦   +---utf8_iter-f251a36b2b336c04
+            ¦   +---uuid-4d03391468a41f26
+            ¦   +---uuid-9aec64aab8b06a27
+            ¦   +---uuid-c89b56d064a24f16
+            ¦   +---uuid-cfd60e9d2f4f4591
+            ¦   +---version_check-1214210d485f79ca
+            ¦   +---vswhom-d11fa2dad853abac
+            ¦   +---vswhom-e4390a5e1836ed42
+            ¦   +---vswhom-sys-2a54db8161567a0e
+            ¦   +---vswhom-sys-316f1ad4b12e5207
+            ¦   +---vswhom-sys-70ec6d47be9b6cd0
+            ¦   +---vswhom-sys-8d2b19bde5367857
+            ¦   +---walkdir-01bf785ac876ca9c
+            ¦   +---walkdir-9c38bf84d5a3ad3a
+            ¦   +---walkdir-bcfbe125aad739aa
+            ¦   +---walkdir-f3ef703152d5b2c7
+            ¦   +---webview2-com-4e0a679b0d2abd9d
+            ¦   +---webview2-com-73cbd5a3d9d6baba
+            ¦   +---webview2-com-macros-60aaa531ec80dbb3
+            ¦   +---webview2-com-sys-83d3a76dc7d77f54
+            ¦   +---webview2-com-sys-8c0dcc6e715977af
+            ¦   +---webview2-com-sys-91251d763bd96e3c
+            ¦   +---webview2-com-sys-9f6b7a726e5bb95f
+            ¦   +---webview2-com-sys-b49e64dc7c1d138d
+            ¦   +---webview2-com-sys-fa069b7dd543ac75
+            ¦   +---winapi-util-422ba4ba0d4cd3bf
+            ¦   +---winapi-util-610b2d4d18e214a5
+            ¦   +---winapi-util-68d17161287483f7
+            ¦   +---winapi-util-bff5dca6c93c3769
+            ¦   +---window-vibrancy-aaa8ff8fb5add010
+            ¦   +---window-vibrancy-da1b0e455445201e
+            ¦   +---windows-04a86538e8e43379
+            ¦   +---windows-5dcaa2c1042a2bbe
+            ¦   +---windows-8794bec3516e7ad7
+            ¦   +---windows-ccd278077a9141e5
+            ¦   +---windows-collections-01f9ab29a3b9b0c1
+            ¦   +---windows-collections-34844d961fb4b3c8
+            ¦   +---windows-collections-4a7c6e72b5a6c393
+            ¦   +---windows-collections-69f1d27b6e4a6383
+            ¦   +---windows-core-93dcb923041e0de7
+            ¦   +---windows-core-e6eb0193b462b8c7
+            ¦   +---windows-core-e7bcd64c6bc135b0
+            ¦   +---windows-core-f21313c446aff723
+            ¦   +---windows-future-1795ef7ee914036c
+            ¦   +---windows-future-48e734f3d29ed795
+            ¦   +---windows-future-67196f72fc02d9b4
+            ¦   +---windows-future-8a81a3ff377afd90
+            ¦   +---windows-implement-b03f0d4f4c58b31b
+            ¦   +---windows-implement-fe210259a3e41fe1
+            ¦   +---windows-interface-253f0d0a6c287ef6
+            ¦   +---windows-link-5b6bc06f58892a06
+            ¦   +---windows-link-8bb1a36473e33ba2
+            ¦   +---windows-numerics-262c6d1faa954d01
+            ¦   +---windows-numerics-2e213a6a97728105
+            ¦   +---windows-numerics-7a7d54fcee27bc93
+            ¦   +---windows-numerics-a515a98ee024a7bd
+            ¦   +---windows-result-2a9339651910fda7
+            ¦   +---windows-result-ab1e80a518d16cb3
+            ¦   +---windows-strings-149c836f9eb5d62f
+            ¦   +---windows-strings-2be166fe9cf1b26a
+            ¦   +---windows-strings-7d6e18feb5f6d58d
+            ¦   +---windows-strings-96767c3f8917234a
+            ¦   +---windows-sys-03c74bb202a1f703
+            ¦   +---windows-sys-0c7dd696c5826187
+            ¦   +---windows-sys-95a6daff58f1b2ea
+            ¦   +---windows-sys-ae524478933a490a
+            ¦   +---windows-sys-e25002a1ae9afaab
+            ¦   +---windows-targets-21cbd9b8811bdbcd
+            ¦   +---windows-targets-27818c136e6a585e
+            ¦   +---windows-targets-433f1ae85898c523
+            ¦   +---windows-targets-5bea9b785c023ae6
+            ¦   +---windows-version-087d6254c5927004
+            ¦   +---windows-version-24bb7dca8a29156b
+            ¦   +---windows_x86_64_msvc-104ee4ed1131b0ba
+            ¦   +---windows_x86_64_msvc-29f37daeb163d0d6
+            ¦   +---windows_x86_64_msvc-327afbf1e279218b
+            ¦   +---windows_x86_64_msvc-3c8e14c3dcf88d12
+            ¦   +---windows_x86_64_msvc-78735def9ce549d2
+            ¦   +---windows_x86_64_msvc-85c5ca9db9287f2d
+            ¦   +---windows_x86_64_msvc-88578c4a50efca04
+            ¦   +---windows_x86_64_msvc-e9eedac884c9d4a8
+            ¦   +---winnow-a2fe9783f4df8882
+            ¦   +---winnow-c447b5c2262961e5
+            ¦   +---winnow-ed22b76df1620b55
+            ¦   +---winreg-131a2a74b2e54ab9
+            ¦   +---winreg-c97c3cfe01dd4fa6
+            ¦   +---write16-0f4f3c2f1c530a7d
+            ¦   +---write16-7a34292f160e3104
+            ¦   +---write16-e80211674819cfc0
+            ¦   +---writeable-7023128039000ba9
+            ¦   +---writeable-c3b400ad34242c41
+            ¦   +---writeable-f6669d9c5fe0a7b8
+            ¦   +---wry-35e1c0e5900799ab
+            ¦   +---wry-6b26294944cad511
+            ¦   +---wry-c85672cb441bef94
+            ¦   +---wry-e0faae9daaba6390
+            ¦   +---yoke-05e28e155cb66978
+            ¦   +---yoke-61b71a04c88fcdcb
+            ¦   +---yoke-b999a076ee363c34
+            ¦   +---yoke-derive-abb20f415be33c40
+            ¦   +---zerocopy-1739add0ecd6e998
+            ¦   +---zerocopy-a9646047fe03131f
+            ¦   +---zerocopy-e06dec9c8d99cd8a
+            ¦   +---zerofrom-d2595959483d2d4c
+            ¦   +---zerofrom-derive-32d19ef38bcf7f4b
+            ¦   +---zerofrom-eef5d2731cf73142
+            ¦   +---zerofrom-ff0e390db4786de4
+            ¦   +---zerovec-11cbcecdbd0ca5f7
+            ¦   +---zerovec-3d3a82604df2b190
+            ¦   +---zerovec-aaca84216f190677
+            ¦   +---zerovec-derive-044e98ea641176e1
+            +---build
+            ¦   +---anyhow-1637c556491076f6
+            ¦   +---anyhow-cf3c20f70e89be43
+            ¦   ¦   +---out
+            ¦   +---app-4c63050f9f7e70f2
+            ¦   +---app-6585e21a9aca3676
+            ¦   ¦   +---out
+            ¦   ¦       +---app-manifest
+            ¦   +---app-76a853c2782d7b32
+            ¦   ¦   +---out
+            ¦   ¦       +---app-manifest
+            ¦   +---app-a105cab3c1b4c625
+            ¦   ¦   +---out
+            ¦   ¦       +---app-manifest
+            ¦   +---app-e34c98ee8951624f
+            ¦   +---app-e42bb93399b609dd
+            ¦   +---camino-1f42e42fb414156d
+            ¦   ¦   +---out
+            ¦   +---camino-b51df652bf17afdd
+            ¦   +---cookie-84aad316634926e2
+            ¦   ¦   +---out
+            ¦   +---cookie-bc683a131b4ddbd3
+            ¦   +---crossbeam-utils-2915f5b5ef2a676d
+            ¦   +---crossbeam-utils-52f34570ef26a1e2
+            ¦   ¦   +---out
+            ¦   +---cssparser-245648d4f6282168
+            ¦   +---cssparser-c2f3790229370681
+            ¦   ¦   +---out
+            ¦   +---generic-array-da0fa3a3c1d67262
+            ¦   +---generic-array-f7c00ba5dc107a3f
+            ¦   ¦   +---out
+            ¦   +---getrandom-67b38228a8923159
+            ¦   +---getrandom-7227783ca4181770
+            ¦   ¦   +---out
+            ¦   +---getrandom-7e336432d48db329
+            ¦   ¦   +---out
+            ¦   +---getrandom-cf4934eaac1d9e0b
+            ¦   +---html5ever-3c5cee7a927a0998
+            ¦   ¦   +---out
+            ¦   +---html5ever-bf899283ce2a3ede
+            ¦   +---icu_locid_transform_data-75bfc866c1cd1a94
+            ¦   ¦   +---out
+            ¦   +---icu_locid_transform_data-b4d9a1c6ba43c67b
+            ¦   +---icu_normalizer_data-4c31efff8cd8d332
+            ¦   ¦   +---out
+            ¦   +---icu_normalizer_data-d0c6761049e38434
+            ¦   +---icu_properties_data-7b270c85e45d6e1a
+            ¦   ¦   +---out
+            ¦   +---icu_properties_data-d6e1792cd32f3cd4
+            ¦   +---indexmap-2769c497f6fc107d
+            ¦   +---indexmap-55bdcc8d2468b5e5
+            ¦   ¦   +---out
+            ¦   +---indexmap-5ddbcaad8ee24f20
+            ¦   ¦   +---out
+            ¦   +---indexmap-df3e5eaed74a3bba
+            ¦   +---libc-0c82a85a0aaaa622
+            ¦   +---libc-8e49c3ac649c7b9b
+            ¦   ¦   +---out
+            ¦   +---lock_api-9a26a4de427051ad
+            ¦   +---lock_api-d2fd67df1cf0bc8a
+            ¦   ¦   +---out
+            ¦   +---markup5ever-0c8e8265413c3a80
+            ¦   +---markup5ever-4444345866c302d6
+            ¦   ¦   +---out
+            ¦   +---markup5ever-48ce54582ce98c29
+            ¦   ¦   +---out
+            ¦   +---markup5ever-98b56b0a51e52e43
+            ¦   +---parking_lot_core-208d0614abf25f2d
+            ¦   +---parking_lot_core-83220260dc85e1c4
+            ¦   ¦   +---out
+            ¦   +---proc-macro-hack-96697eda46054250
+            ¦   +---proc-macro-hack-fac53b41d2378f6b
+            ¦   ¦   +---out
+            ¦   +---proc-macro2-3a3ce87370a3e0ce
+            ¦   +---proc-macro2-ae2daf3fd4822f3e
+            ¦   ¦   +---out
+            ¦   +---schemars-5dbb942307511abe
+            ¦   ¦   +---out
+            ¦   +---schemars-dd2da27c3d0b8cd2
+            ¦   +---selectors-1c9dfb13933cd323
+            ¦   +---selectors-6d51db788c88fff6
+            ¦   ¦   +---out
+            ¦   +---selectors-82b42385bace7964
+            ¦   +---selectors-e2450c06b0e4a977
+            ¦   ¦   +---out
+            ¦   +---semver-0077db6ee1c9d2aa
+            ¦   +---semver-62f2e01527362871
+            ¦   ¦   +---out
+            ¦   +---semver-68ebe31b77fadc59
+            ¦   +---semver-83e4adb7e11c22c5
+            ¦   ¦   +---out
+            ¦   +---serde-01d22dffb2f0f420
+            ¦   +---serde-a4b52885f22edf1a
+            ¦   +---serde-aa7a417492e75c30
+            ¦   ¦   +---out
+            ¦   +---serde-d4ff44a625c2f4c4
+            ¦   ¦   +---out
+            ¦   +---serde_json-0ddcfd2f3b722ff1
+            ¦   +---serde_json-4a10cb2d7b6223f5
+            ¦   ¦   +---out
+            ¦   +---serde_json-59f450e854f1edae
+            ¦   +---serde_json-f775e973005b51be
+            ¦   ¦   +---out
+            ¦   +---slab-79e9f1326b07f9da
+            ¦   +---slab-af68c12364def23d
+            ¦   ¦   +---out
+            ¦   +---softbuffer-3c15d9c9488d6c52
+            ¦   ¦   +---out
+            ¦   +---softbuffer-8376d3944747bb96
+            ¦   +---syn-4c18b15f9938b276
+            ¦   ¦   +---out
+            ¦   +---syn-8dac8d106a163f4a
+            ¦   +---tauri-08a962d2d0507cfe
+            ¦   +---tauri-68ed4979131ca8ef
+            ¦   +---tauri-6c72e39637603a8b
+            ¦   ¦   +---out
+            ¦   ¦       +---permissions
+            ¦   ¦           +---app
+            ¦   ¦           ¦   +---autogenerated
+            ¦   ¦           ¦       +---commands
+            ¦   ¦           +---event
+            ¦   ¦           ¦   +---autogenerated
+            ¦   ¦           ¦       +---commands
+            ¦   ¦           +---image
+            ¦   ¦           ¦   +---autogenerated
+            ¦   ¦           ¦       +---commands
+            ¦   ¦           +---menu
+            ¦   ¦           ¦   +---autogenerated
+            ¦   ¦           ¦       +---commands
+            ¦   ¦           +---path
+            ¦   ¦           ¦   +---autogenerated
+            ¦   ¦           ¦       +---commands
+            ¦   ¦           +---resources
+            ¦   ¦           ¦   +---autogenerated
+            ¦   ¦           ¦       +---commands
+            ¦   ¦           +---tray
+            ¦   ¦           ¦   +---autogenerated
+            ¦   ¦           ¦       +---commands
+            ¦   ¦           +---webview
+            ¦   ¦           ¦   +---autogenerated
+            ¦   ¦           ¦       +---commands
+            ¦   ¦           +---window
+            ¦   ¦               +---autogenerated
+            ¦   ¦                   +---commands
+            ¦   +---tauri-98f5fb4dc4a74e32
+            ¦   +---tauri-e75ac4d09af7c44e
+            ¦   ¦   +---out
+            ¦   ¦       +---permissions
+            ¦   ¦           +---app
+            ¦   ¦           ¦   +---autogenerated
+            ¦   ¦           ¦       +---commands
+            ¦   ¦           +---event
+            ¦   ¦           ¦   +---autogenerated
+            ¦   ¦           ¦       +---commands
+            ¦   ¦           +---image
+            ¦   ¦           ¦   +---autogenerated
+            ¦   ¦           ¦       +---commands
+            ¦   ¦           +---menu
+            ¦   ¦           ¦   +---autogenerated
+            ¦   ¦           ¦       +---commands
+            ¦   ¦           +---path
+            ¦   ¦           ¦   +---autogenerated
+            ¦   ¦           ¦       +---commands
+            ¦   ¦           +---resources
+            ¦   ¦           ¦   +---autogenerated
+            ¦   ¦           ¦       +---commands
+            ¦   ¦           +---tray
+            ¦   ¦           ¦   +---autogenerated
+            ¦   ¦           ¦       +---commands
+            ¦   ¦           +---webview
+            ¦   ¦           ¦   +---autogenerated
+            ¦   ¦           ¦       +---commands
+            ¦   ¦           +---window
+            ¦   ¦               +---autogenerated
+            ¦   ¦                   +---commands
+            ¦   +---tauri-fa1c2a1d82b2d03f
+            ¦   ¦   +---out
+            ¦   ¦       +---permissions
+            ¦   ¦           +---app
+            ¦   ¦           ¦   +---autogenerated
+            ¦   ¦           ¦       +---commands
+            ¦   ¦           +---event
+            ¦   ¦           ¦   +---autogenerated
+            ¦   ¦           ¦       +---commands
+            ¦   ¦           +---image
+            ¦   ¦           ¦   +---autogenerated
+            ¦   ¦           ¦       +---commands
+            ¦   ¦           +---menu
+            ¦   ¦           ¦   +---autogenerated
+            ¦   ¦           ¦       +---commands
+            ¦   ¦           +---path
+            ¦   ¦           ¦   +---autogenerated
+            ¦   ¦           ¦       +---commands
+            ¦   ¦           +---resources
+            ¦   ¦           ¦   +---autogenerated
+            ¦   ¦           ¦       +---commands
+            ¦   ¦           +---tray
+            ¦   ¦           ¦   +---autogenerated
+            ¦   ¦           ¦       +---commands
+            ¦   ¦           +---webview
+            ¦   ¦           ¦   +---autogenerated
+            ¦   ¦           ¦       +---commands
+            ¦   ¦           +---window
+            ¦   ¦               +---autogenerated
+            ¦   ¦                   +---commands
+            ¦   +---tauri-plugin-opener-087a88c0733e19ad
+            ¦   +---tauri-plugin-opener-1c279581b91de686
+            ¦   ¦   +---out
+            ¦   +---tauri-plugin-opener-2459f97e91e7c4f3
+            ¦   ¦   +---out
+            ¦   +---tauri-plugin-opener-2a03e3f05d84df1f
+            ¦   +---tauri-plugin-opener-5bc20d94a6359787
+            ¦   ¦   +---out
+            ¦   +---tauri-plugin-opener-f567b43966fda435
+            ¦   +---tauri-runtime-125914ebfc6cdb0e
+            ¦   ¦   +---out
+            ¦   +---tauri-runtime-75943df4f0b344f2
+            ¦   +---tauri-runtime-wry-d8206410fcee719a
+            ¦   +---tauri-runtime-wry-ef7dc3e3853c67ba
+            ¦   ¦   +---out
+            ¦   +---thiserror-1654b9df548507c7
+            ¦   +---thiserror-a4adc56dd3d8d03f
+            ¦   +---thiserror-d5434fa7970f8e4d
+            ¦   ¦   +---out
+            ¦   +---thiserror-e41546a061920656
+            ¦   ¦   +---out
+            ¦   +---typeid-4501528fe4c5fbe5
+            ¦   ¦   +---out
+            ¦   +---typeid-d6fbee1d8432e325
+            ¦   +---typenum-21539e70f5800262
+            ¦   +---typenum-8a6e949b1837fb90
+            ¦   ¦   +---out
+            ¦   +---vswhom-sys-2a54db8161567a0e
+            ¦   +---vswhom-sys-70ec6d47be9b6cd0
+            ¦   ¦   +---out
+            ¦   +---webview2-com-sys-83d3a76dc7d77f54
+            ¦   ¦   +---out
+            ¦   ¦       +---arm64
+            ¦   ¦       +---x64
+            ¦   ¦       +---x86
+            ¦   +---webview2-com-sys-91251d763bd96e3c
+            ¦   ¦   +---out
+            ¦   ¦       +---arm64
+            ¦   ¦       +---x64
+            ¦   ¦       +---x86
+            ¦   +---webview2-com-sys-b49e64dc7c1d138d
+            ¦   +---webview2-com-sys-fa069b7dd543ac75
+            ¦   +---windows_x86_64_msvc-104ee4ed1131b0ba
+            ¦   ¦   +---out
+            ¦   +---windows_x86_64_msvc-78735def9ce549d2
+            ¦   +---windows_x86_64_msvc-85c5ca9db9287f2d
+            ¦   ¦   +---out
+            ¦   +---windows_x86_64_msvc-e9eedac884c9d4a8
+            ¦   +---wry-c85672cb441bef94
+            ¦   ¦   +---out
+            ¦   +---wry-e0faae9daaba6390
+            ¦   +---zerocopy-1739add0ecd6e998
+            ¦   ¦   +---out
+            ¦   +---zerocopy-a9646047fe03131f
+            +---deps
+            ¦   +---rmetagh1r12
+            ¦   +---rmetatPHgwU
+            +---examples
+            +---incremental
+                +---app-1vftjzbax5i85
+                ¦   +---s-h6p99x07oi-1j89a2t-8w0g913xqend2vynge011sj6r
+                +---app-2nlh16kr95rg8
+                ¦   +---s-h6p99x07lq-01mwim2-2c22mff5z6alu4mly7ktl4n5i
+                +---app-2y8frl645fqyp
+                ¦   +---s-h6q9l9ficd-01pgyv6-cmxqh0po7o7046zy8vpwg4d29
+                +---app-3ib0eh3bvytz8
+                ¦   +---s-h6pdo9oq5r-1qt0nl7-4nj1t3d3pu54lec84ko5d9t9x
+                +---app_lib-0m0ytwzaiot25
+                ¦   +---s-h6pdo6mgnr-1s1wu8s-81r3iai9gnia6lkkhcu462e6d
+                +---app_lib-1zsrjgwzszg97
+                ¦   +---s-h6q9l6dckz-0e3wz8r-8lng7vewlbs2gpo9s16sfpsrh
+                +---app_lib-2hjf7wrkw2jnq
+                ¦   +---s-h6p99whsqr-1vorzv2-1aupgxgfsj72nndd4iypo465o
+                +---app_lib-36l0e7q9ud5kf
+                ¦   +---s-h6p99whsua-0erream-5btgl22cmfd7xl14b0mg3ugw3
+                +---build_script_build-1v65zhx1hcz93
+                ¦   +---s-h6p9918ay3-0h5drl1-cogx7fx62ae8o49ktco2xlv68
+                +---build_script_build-25vhyw4o8mn7j
+                ¦   +---s-h6q897s1ub-1ajl86z-568i5o14xwmb0xl293k26vaff
+                +---build_script_build-2vg35gr4bp5uf
+                    +---s-h6p937nw7y-01hhtjp-9kmstgbohxwg5vcmrqaqyg7ov
