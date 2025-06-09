@@ -1,6 +1,7 @@
 // src/components/Parameter.tsx
-import { useState, useContext, useRef, ChangeEvent } from "react";
+import { useState, useContext, useRef, ChangeEvent, useEffect } from "react";
 import { ResultsContext } from "../contexts/ResultsContext";
+import { saveToFile } from "../utils/saveLoad";
 
 export default function Parameter() {
   // Parameter-State, initial aus localStorage, default 10/500/50
@@ -19,6 +20,15 @@ export default function Parameter() {
 
   // Ref für verstecktes File-Input
   const fileInputRef = useRef<HTMLInputElement>(null);
+
+  // ─── Automatisch speichern bei Parameteränderungen ─────────────
+  useEffect(() => {
+    localStorage.setItem("u", String(drawChance));
+    localStorage.setItem("mc", String(monteCarloRuns));
+    localStorage.setItem("form", String(formVsRanking));
+    const settings = { drawChance, monteCarloRuns, formVsRanking };
+    saveToFile({ settings, results }).catch(() => {});
+  }, [drawChance, monteCarloRuns, formVsRanking, results]);
 
   // 1) Speichern (Export): alles in einem JSON
   const handleSaveAll = () => {
@@ -76,6 +86,7 @@ export default function Parameter() {
         localStorage.setItem("u", String(parsed.settings.drawChance));
         localStorage.setItem("mc", String(parsed.settings.monteCarloRuns));
         localStorage.setItem("form", String(parsed.settings.formVsRanking));
+        saveToFile({ settings: parsed.settings, results: parsed.results }).catch(() => {});
         alert("✅ Alle Daten erfolgreich geladen!");
       } else {
         throw new Error("Ungültiges Format");
