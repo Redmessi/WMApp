@@ -1,5 +1,5 @@
 // src/components/Parameter.tsx
-import { useState, useContext, useRef, ChangeEvent } from "react";
+import { useState, useContext, useRef, ChangeEvent, useEffect } from "react";
 import { ResultsContext } from "../contexts/ResultsContext";
 
 export default function Parameter() {
@@ -13,6 +13,19 @@ export default function Parameter() {
   const [formVsRanking, setFormVsRanking] = useState(
     () => Number(localStorage.getItem("form")) || 50
   );
+
+  // Änderungen sofort in localStorage spiegeln
+  useEffect(() => {
+    localStorage.setItem("u", String(drawChance));
+  }, [drawChance]);
+
+  useEffect(() => {
+    localStorage.setItem("mc", String(monteCarloRuns));
+  }, [monteCarloRuns]);
+
+  useEffect(() => {
+    localStorage.setItem("form", String(formVsRanking));
+  }, [formVsRanking]);
 
   // Gruppendaten aus Context
   const { results, setResults } = useContext(ResultsContext);
