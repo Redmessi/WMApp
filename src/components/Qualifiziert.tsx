@@ -160,23 +160,24 @@ export default function Qualifiziert() {
   };
 
   return (
-    <div className="max-w-7xl mx-auto p-4 grid grid-cols-1 md:grid-cols-2 gap-8">
-      <div>
-        <div className="flex gap-4 mb-6">
-          <button
-            onClick={() => setRealKey(prev => prev + 1)}
-            className="bg-green-500 hover:bg-green-700 text-white font-bold py-2 px-4 rounded"
-          >
-            Tabelle aktualisieren
-          </button>
-          <button
-            onClick={() => setSimKey(prev => prev + 1)}
-            className="bg-blue-500 hover:bg-blue-700 text-white font-bold py-2 px-4 rounded"
-          >
-            Neue Simulation starten
-          </button>
-        </div>
-        <h2 className="text-2xl font-bold mb-6">🌍 Aktueller Stand (Real)</h2>
+    <div className="max-w-7xl mx-auto p-4">
+      <div className="flex gap-4 mb-6">
+        <button
+          onClick={() => setRealKey(prev => prev + 1)}
+          className="bg-green-500 hover:bg-green-700 text-white font-bold py-2 px-4 rounded"
+        >
+          Tabelle aktualisieren
+        </button>
+        <button
+          onClick={() => setSimKey(prev => prev + 1)}
+          className="bg-blue-500 hover:bg-blue-700 text-white font-bold py-2 px-4 rounded"
+        >
+          Neue Simulation starten
+        </button>
+      </div>
+      <div className="grid grid-cols-1 md:grid-cols-2 gap-8">
+        <div>
+          <h2 className="text-2xl font-bold mb-6">🌍 Aktueller Stand (Momentan)</h2>
         <table className="w-full border-collapse text-left">
           <thead className="bg-[#202225]">
             <tr>
@@ -209,9 +210,9 @@ export default function Qualifiziert() {
         </table>
       </div>
 
-      <div>
-        <h2 className="text-2xl font-bold mb-6">🔬 Prognose (Simulation)</h2>
-        <table className="w-full border-collapse text-left">
+        <div>
+          <h2 className="text-2xl font-bold mb-6">🔬 Prognose (Simulation)</h2>
+          <table className="w-full border-collapse text-left">
           <thead className="bg-[#202225]">
             <tr>
               <th className="p-2 border-b">#</th>
@@ -236,7 +237,8 @@ export default function Qualifiziert() {
               </tr>
             ))}
           </tbody>
-        </table>
+          </table>
+        </div>
       </div>
     </div>
   );
