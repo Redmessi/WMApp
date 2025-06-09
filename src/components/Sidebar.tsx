@@ -7,7 +7,6 @@ const sections = [
   'Begegnungen',
   ...Array.from({ length: 12 }, (_, i) => `Gruppe ${String.fromCharCode(65 + i)}`),
   'Qualifiziert',
-  'Parameter',
   'Weltrangliste',
   'Statistik','Fantasy Match'
 ];

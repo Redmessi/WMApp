@@ -1,6 +1,7 @@
 // src/App.tsx
 import { useState } from "react";
 import Sidebar from "./components/Sidebar";
+import TopMenu from "./components/TopMenu";
 import Weltrangliste from "./components/Weltrangliste";
 import Parameter from "./components/Parameter";
 import GruppeA from "./components/GruppeA";
@@ -32,34 +33,36 @@ export default function App() {
   return (
     // 1️⃣ Hier umschließen wir alles mit dem Provider
     <ResultsProvider>
-      <div className="flex h-screen font-sans text-white">
-        <Sidebar current={current} setCurrent={setCurrent} />
-        <div className="flex-1 bg-[#36393f] p-6 overflow-y-auto">
-          <h2 className="text-2xl font-bold mb-4">{current}</h2>
+      <div className="flex flex-col h-screen font-sans text-white">
+        <TopMenu setCurrent={setCurrent} />
+        <div className="flex flex-1">
+          <Sidebar current={current} setCurrent={setCurrent} />
+          <div className="flex-1 bg-[#36393f] p-6 overflow-y-auto">
+            <h2 className="text-2xl font-bold mb-4">{current}</h2>
 
-          {/* 2️⃣ Deine Routen */}
-          {current === "Übersicht" && <Übersicht/>}
-          {current === "Weltrangliste" && <Weltrangliste />}
-          {current === "Parameter" && <Parameter />}
-          {current === "Gruppe A" && <GruppeA />}
-          {current === "Gruppe B" && <GruppeB />}
-          {current === "Gruppe C" && <GruppeC />}
-          {current === "Gruppe D" && <GruppeD />}
-          {current === "Gruppe E" && <GruppeE />}
-          {current === "Gruppe F" && <GruppeF />}
-          {current === "Gruppe G" && <GruppeG />}
-          {current === "Gruppe H" && <GruppeH />}
-          {current === "Gruppe I" && <GruppeI />}
-          {current === "Gruppe J" && <GruppeJ />}
-          {current === "Gruppe K" && <GruppeK />}
-          {current === "Gruppe L" && <GruppeL />}
-          {current === "Statistik" && <Statistik />}
-          {current === "Begegnungen" && <Begegnungen />}
-          {current === "Qualifiziert" && <Qualifiziert />}
-          {current === "Fantasy Match" && <FantasyMatch />}
+            {/* 2️⃣ Deine Routen */}
+            {current === "Übersicht" && <Übersicht/>}
+            {current === "Weltrangliste" && <Weltrangliste />}
+            {current === "Parameter" && <Parameter />}
+            {current === "Gruppe A" && <GruppeA />}
+            {current === "Gruppe B" && <GruppeB />}
+            {current === "Gruppe C" && <GruppeC />}
+            {current === "Gruppe D" && <GruppeD />}
+            {current === "Gruppe E" && <GruppeE />}
+            {current === "Gruppe F" && <GruppeF />}
+            {current === "Gruppe G" && <GruppeG />}
+            {current === "Gruppe H" && <GruppeH />}
+            {current === "Gruppe I" && <GruppeI />}
+            {current === "Gruppe J" && <GruppeJ />}
+            {current === "Gruppe K" && <GruppeK />}
+            {current === "Gruppe L" && <GruppeL />}
+            {current === "Statistik" && <Statistik />}
+            {current === "Begegnungen" && <Begegnungen />}
+            {current === "Qualifiziert" && <Qualifiziert />}
+            {current === "Fantasy Match" && <FantasyMatch />}
 
 
-
+          </div>
         </div>
       </div>
     </ResultsProvider>
