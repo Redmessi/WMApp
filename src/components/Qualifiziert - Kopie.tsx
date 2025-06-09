@@ -42,7 +42,12 @@ export default function Qualifiziert() {
     const normalizedAway = (maxRank - rankAway) / maxRank;
     const strengthHome = Math.pow(normalizedHome, 2.5);
     const strengthAway = Math.pow(normalizedAway, 2.5);
-    return simulateGoals(strengthHome, strengthAway);
+    const drawChance = (Number(localStorage.getItem("u")) || 10) / 100;
+    const pHome = (strengthHome / (strengthHome + strengthAway)) * (1 - drawChance);
+    const r = Math.random();
+    if (r < pHome) return [1, 0];
+    else if (r < pHome + drawChance) return [0, 0];
+    else return [0, 1];
   }
 
   const getMatches = (gruppe: string) => {
@@ -106,7 +111,8 @@ export default function Qualifiziert() {
 
     const groupRanks: Record<string, { team: typeof initialData[0]; avgPunkte: number }[]> = {};
 
-    for (let i = 0; i < 500; i++) {
+    const monteCarloRuns = Number(localStorage.getItem("mc")) || 500;
+    for (let i = 0; i < monteCarloRuns; i++) {
       const tempPoints: { [code: string]: number } = {};
       initialData.forEach(t => tempPoints[t.code] = 0);
       spiele.forEach(m => {
@@ -139,7 +145,7 @@ export default function Qualifiziert() {
     }
 
     Object.values(groupRanks).forEach(teams => {
-      teams.forEach(t => t.avgPunkte = Math.round(t.avgPunkte / 500));
+      teams.forEach(t => t.avgPunkte = Math.round(t.avgPunkte / monteCarloRuns));
       teams.sort((a, b) => b.avgPunkte - a.avgPunkte);
     });
 

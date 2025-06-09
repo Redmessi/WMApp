@@ -15,6 +15,19 @@ export default function Parameter() {
     () => Number(localStorage.getItem("form")) || 50
   );
 
+  // Änderungen sofort in localStorage spiegeln
+  useEffect(() => {
+    localStorage.setItem("u", String(drawChance));
+  }, [drawChance]);
+
+  useEffect(() => {
+    localStorage.setItem("mc", String(monteCarloRuns));
+  }, [monteCarloRuns]);
+
+  useEffect(() => {
+    localStorage.setItem("form", String(formVsRanking));
+  }, [formVsRanking]);
+
   // Gruppendaten aus Context
   const { results, setResults } = useContext(ResultsContext);
 

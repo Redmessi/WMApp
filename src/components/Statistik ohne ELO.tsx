@@ -70,10 +70,12 @@ export default function Statistik() {
     const normalizedAway = (maxRank - rankAway) / maxRank;
     const strengthHome = Math.pow(normalizedHome, 1.5);
     const strengthAway = Math.pow(normalizedAway, 1.5);
-    const [homeGoals, awayGoals] = simulateGoals(strengthHome, strengthAway);
-    if (homeGoals > awayGoals) return 'home';
-    else if (homeGoals < awayGoals) return 'away';
-    else return 'draw';
+    const drawChance = (Number(localStorage.getItem("u")) || 10) / 100;
+    const pHome = (strengthHome / (strengthHome + strengthAway)) * (1 - drawChance);
+    const r = Math.random();
+    if (r < pHome) return 'home';
+    else if (r < pHome + drawChance) return 'draw';
+    else return 'away';
   }
 
   function simulateGroup() {
@@ -116,6 +118,7 @@ export default function Statistik() {
 
   function runSimulations() {
     if (spiele.length === 0) return;
+    const monteCarloRuns = Number(localStorage.getItem("mc")) || 500;
     const tempResults: { [team: string]: number[] } = {};
     const tempAllPoints: { [team: string]: number[] } = {};
     const tempPoints: { [team: string]: number } = {};
@@ -124,7 +127,7 @@ export default function Statistik() {
       tempAllPoints[code] = [];
       tempPoints[code] = 0;
     });
-    for (let i = 0; i < 500; i++) {
+    for (let i = 0; i < monteCarloRuns; i++) {
       const points = simulateGroup();
       const ranking = teamCodes.map(code => ({ code, points: points[code] })).sort((a, b) => b.points - a.points);
       ranking.forEach((team, index) => {
@@ -177,7 +180,8 @@ export default function Statistik() {
     };
   }
 
-  const sortedTeams = Object.keys(simulatedPoints).sort((a, b) => (simulatedPoints[b] / 500) - (simulatedPoints[a] / 500));
+  const monteCarloRuns = Number(localStorage.getItem("mc")) || 500;
+  const sortedTeams = Object.keys(simulatedPoints).sort((a, b) => (simulatedPoints[b] / monteCarloRuns) - (simulatedPoints[a] / monteCarloRuns));
   const maxPoints = teamCodes.length === 4 ? 18 : 24;
 
   return (
@@ -226,7 +230,7 @@ export default function Statistik() {
                   <tr key={team}>
                     <td className="border px-4 py-2">{team}</td>
                     {simulatedData[team]?.map((count, idx) => {
-                      const percent = (count / 500) * 100;
+                      const percent = (count / monteCarloRuns) * 100;
                       return (
                         <td
                           key={idx}
@@ -237,7 +241,7 @@ export default function Statistik() {
                         </td>
                       );
                     })}
-                    <td className="border px-4 py-2">{Math.round(simulatedPoints[team] / 500)}</td>
+                    <td className="border px-4 py-2">{Math.round(simulatedPoints[team] / monteCarloRuns)}</td>
                   </tr>
                 ))}
               </tbody>

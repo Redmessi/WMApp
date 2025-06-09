@@ -31,7 +31,6 @@ export default function FantasyMatch() {
   const chartAreaRef = useRef<HTMLDivElement>(null);
 
   const maxGoals = 9;
-  const simulations = 500;
   const bonusFactor = 0.03;
   const [goalDistribution, setGoalDistribution] = useState<{
     home: number[];
@@ -81,6 +80,7 @@ export default function FantasyMatch() {
   
 
   function runSimulation() {
+    const simulations = Number(localStorage.getItem("mc")) || 500;
     const matrix = Array.from({ length: maxGoals }, () => Array(maxGoals).fill(0));
     const maxRank = 240;
     const rankHome = teamRankings[homeTeam] || maxRank;
@@ -93,6 +93,7 @@ export default function FantasyMatch() {
     let homeGoalsCount = Array(maxGoals).fill(0);
 let awayGoalsCount = Array(maxGoals).fill(0);
 
+    const drawChance = (Number(localStorage.getItem("u")) || 10) / 100;
     for (let i = 0; i < simulations; i++) {
 
 
@@ -105,10 +106,16 @@ let awayGoalsCount = Array(maxGoals).fill(0);
         continue;
       }
 
-      matrix[hg][ag]++;
-      if (hg > ag) homeWins++;
-      else if (hg < ag) awayWins++;
-      else draws++;
+      if (Math.random() < drawChance) {
+        const g = Math.min(hg, ag);
+        matrix[g][g]++;
+        draws++;
+      } else {
+        matrix[hg][ag]++;
+        if (hg > ag) homeWins++;
+        else if (hg < ag) awayWins++;
+        else draws++;
+      }
       
 
       const key = `${hg}:${ag}`;
