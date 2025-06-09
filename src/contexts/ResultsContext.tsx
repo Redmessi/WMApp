@@ -1,5 +1,6 @@
 // src/contexts/ResultsContext.tsx
 import { createContext, ReactNode, useState, useEffect } from "react";
+import { saveToFile, loadLatestFile } from "../utils/saveLoad";
 
 export interface MatchResult {
   spieltag: number;
@@ -39,6 +40,21 @@ export function ResultsProvider({ children }: { children: ReactNode }) {
     }
   }, []);
 
+  // ─── 1b) Danach ggf. neuesten Autosave laden ───────────────────
+  useEffect(() => {
+    loadLatestFile().then(save => {
+      if (save) {
+        setResults(save.results);
+        try {
+          window.localStorage.setItem(STORAGE_KEY, JSON.stringify(save.results));
+          window.localStorage.setItem("u", String(save.settings.drawChance));
+          window.localStorage.setItem("mc", String(save.settings.monteCarloRuns));
+          window.localStorage.setItem("form", String(save.settings.formVsRanking));
+        } catch {}
+      }
+    });
+  }, []);
+
   // ─── 2) Bei jeder Änderung des States in localStorage schreiben ──
   useEffect(() => {
     try {
@@ -46,6 +62,12 @@ export function ResultsProvider({ children }: { children: ReactNode }) {
     } catch {
       // Speicher voll oder blockiert → ignorieren
     }
+    const settings = {
+      drawChance: Number(window.localStorage.getItem("u") ?? 10),
+      monteCarloRuns: Number(window.localStorage.getItem("mc") ?? 500),
+      formVsRanking: Number(window.localStorage.getItem("form") ?? 50),
+    };
+    saveToFile({ settings, results }).catch(() => {});
   }, [results]);
 
   return (
