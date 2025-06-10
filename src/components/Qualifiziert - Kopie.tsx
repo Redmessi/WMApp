@@ -111,7 +111,7 @@ export default function Qualifiziert() {
 
     const groupRanks: Record<string, { team: typeof initialData[0]; avgPunkte: number }[]> = {};
 
-    const monteCarloRuns = Number(localStorage.getItem("mc")) || 500;
+    const monteCarloRuns = Number(localStorage.getItem("mc")) || 10000;
     for (let i = 0; i < monteCarloRuns; i++) {
       const tempPoints: { [code: string]: number } = {};
       initialData.forEach(t => tempPoints[t.code] = 0);
