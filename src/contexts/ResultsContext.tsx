@@ -64,7 +64,7 @@ export function ResultsProvider({ children }: { children: ReactNode }) {
     }
     const settings = {
       drawChance: Number(window.localStorage.getItem("u") ?? 10),
-      monteCarloRuns: Number(window.localStorage.getItem("mc") ?? 500),
+      monteCarloRuns: Number(window.localStorage.getItem("mc") ?? 10000),
       formVsRanking: Number(window.localStorage.getItem("form") ?? 50),
     };
     saveToFile({ settings, results }).catch(() => {});

@@ -80,7 +80,7 @@ export default function FantasyMatch() {
   
 
   function runSimulation() {
-    const simulations = Number(localStorage.getItem("mc")) || 500;
+    const simulations = Number(localStorage.getItem("mc")) || 10000;
     const matrix = Array.from({ length: maxGoals }, () => Array(maxGoals).fill(0));
     const maxRank = 240;
     const rankHome = teamRankings[homeTeam] || maxRank;

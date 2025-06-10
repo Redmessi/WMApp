@@ -4,12 +4,12 @@ import { ResultsContext } from "../contexts/ResultsContext";
 import { saveToFile } from "../utils/saveLoad";
 
 export default function Parameter() {
-  // Parameter-State, initial aus localStorage, default 10/500/50
+  // Parameter-State, initial aus localStorage, default 10/10000/50
   const [drawChance, setDrawChance] = useState(
     () => Number(localStorage.getItem("u")) || 10
   );
   const [monteCarloRuns, setMonteCarloRuns] = useState(
-    () => Number(localStorage.getItem("mc")) || 500
+    () => Number(localStorage.getItem("mc")) || 10000
   );
   const [formVsRanking, setFormVsRanking] = useState(
     () => Number(localStorage.getItem("form")) || 50

@@ -7,7 +7,7 @@ export default function TopMenu({ setCurrent }: { setCurrent: (val: string) => v
 
   const getSettings = () => ({
     drawChance: Number(localStorage.getItem("u") || 10),
-    monteCarloRuns: Number(localStorage.getItem("mc") || 500),
+    monteCarloRuns: Number(localStorage.getItem("mc") || 10000),
     formVsRanking: Number(localStorage.getItem("form") || 50),
   });
 

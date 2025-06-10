@@ -118,7 +118,7 @@ export default function Statistik() {
 
   function runSimulations() {
     if (spiele.length === 0) return;
-    const monteCarloRuns = Number(localStorage.getItem("mc")) || 500;
+    const monteCarloRuns = Number(localStorage.getItem("mc")) || 10000;
     const tempResults: { [team: string]: number[] } = {};
     const tempAllPoints: { [team: string]: number[] } = {};
     const tempPoints: { [team: string]: number } = {};
@@ -180,7 +180,7 @@ export default function Statistik() {
     };
   }
 
-  const monteCarloRuns = Number(localStorage.getItem("mc")) || 500;
+  const monteCarloRuns = Number(localStorage.getItem("mc")) || 10000;
   const sortedTeams = Object.keys(simulatedPoints).sort((a, b) => (simulatedPoints[b] / monteCarloRuns) - (simulatedPoints[a] / monteCarloRuns));
   const maxPoints = teamCodes.length === 4 ? 18 : 24;
 
